@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP7050WA-100M
+D Ind,7.9x7.3x5.2mm,10uH+/-20%,7.2A,shd
+K
+F https://g.componentsearchengine.com/Datasheets/0/17601806.pdf
+$ENDCMP
+#
+#End Doc Library

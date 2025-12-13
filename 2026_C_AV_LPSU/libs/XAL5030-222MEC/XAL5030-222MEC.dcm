@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XAL5030-222MEC
+D INDUCTOR, 2.2UH, 9.2A, 20%, PWR, 38MHZ
+K
+F https://www.coilcraft.com/getmedia/49bc46c8-4b2c-45b9-9b6c-2eaa235ea698/xal50xx.pdf
+$ENDCMP
+#
+#End Doc Library

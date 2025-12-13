@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XAL4030-682MEC
+D COILCRAFT - XAL4030-682MEC - INDUCTOR, 6.8UH, 3.9A, 20%, PWR, 29MHZ
+K
+F https://www.coilcraft.com/pdfs/xal4000.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,309 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "53a77f7c-61ec-4227-bc8b-595d03316b48")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "DESIGN NOTES:\nExample text for informational design notes."
+		(exclude_from_sim no)
+		(at 13.97 162.56 0)
+		(size 27.94 15.24)
+		(margins 1.8 1.8 1.8 1.8)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 132 132 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "32bc6c70-b4b3-42f0-97bf-f8be26132c34")
+	)
+	(text_box "DESIGN NOTES:\nExample text for critical design notes."
+		(exclude_from_sim no)
+		(at 74.93 162.56 0)
+		(size 27.94 15.24)
+		(margins 1.8 1.8 1.8 1.8)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 194 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "48722c96-9406-40e8-a76b-ae2a344664f4")
+	)
+	(text_box "DESIGN NOTES:\nExample text for cautionary design notes."
+		(exclude_from_sim no)
+		(at 44.45 162.56 0)
+		(size 27.94 15.24)
+		(margins 1.8 1.8 1.8 1.8)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 221 133 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 221 133 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "898d75a5-1119-48e5-bae6-c655e39a015b")
+	)
+	(text_box "DEBUG NOTES:\nExample text for debug notes."
+		(exclude_from_sim no)
+		(at 44.45 180.34 0)
+		(size 27.94 15.24)
+		(margins 1.8 1.8 1.8 1.8)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 132 0 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 132 0 132 1)
+			)
+			(justify left top)
+		)
+		(uuid "8f377fbd-5d12-41e1-88c2-ffe13addb587")
+	)
+	(text_box "LAYOUT NOTES:\nExample text for critical layout guidelines."
+		(exclude_from_sim no)
+		(at 13.97 180.34 0)
+		(size 27.94 15.24)
+		(margins 1.8 1.8 1.8 1.8)
+		(stroke
+			(width 0.6)
+			(type default)
+			(color 0 0 194 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 0 0 194 1)
+			)
+			(justify left top)
+		)
+		(uuid "9b5bf2c4-0bdd-49ea-9a77-f9e3f6ae0397")
+	)
+	(sheet
+		(at 250.19 218.44)
+		(size 35.56 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2021ea5f-d54f-4e1b-a301-7bfd184df591")
+		(property "Sheetname" "Revision History"
+			(at 250.19 217.17 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.905 1.905)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Revision History.kicad_sch"
+			(at 250.825 219.71 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 209.55 229.87)
+		(size 35.56 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "295dbe6a-fd29-4ee8-93ce-3881271e8549")
+		(property "Sheetname" "Project Architecture"
+			(at 209.55 228.8409 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.905 1.905)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Project Architecture.kicad_sch"
+			(at 210.82 231.14 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 209.55 218.44)
+		(size 35.56 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "366f6492-dde3-46cd-82a7-d2026dafb12e")
+		(property "Sheetname" "Block Diagram"
+			(at 209.55 217.4109 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.905 1.905)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Block Diagram.kicad_sch"
+			(at 210.82 219.71 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 250.19 229.87)
+		(size 35.56 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cb9debe2-fe5b-43b5-969e-b19eb3d985f9")
+		(property "Sheetname" "Power - Sequencing"
+			(at 250.19 228.6 0)
+			(effects
+				(font
+					(face "Times New Roman")
+					(size 1.905 1.905)
+					(bold yes)
+					(color 0 0 0 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power - Sequencing.kicad_sch"
+			(at 250.825 231.14 0)
+			(effects
+				(font
+					(face "Arial")
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

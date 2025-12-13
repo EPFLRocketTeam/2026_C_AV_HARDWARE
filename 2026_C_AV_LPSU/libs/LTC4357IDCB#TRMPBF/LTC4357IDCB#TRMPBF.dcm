@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4357IDCB#TRMPBF
+D Power Management Specialized - PMIC Positive High Voltage Ideal Diode Controller
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PESD4USB3UTBS-QX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-21-10:32:17)
+    (mountForm default
+        (footprintRef "PESD4USB3UTBSQX")
+        (spec "System")
+    )
+)

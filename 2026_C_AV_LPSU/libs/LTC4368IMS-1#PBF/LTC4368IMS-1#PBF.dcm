@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4368IMS-1#PBF
+D Surge Suppressors 100V OV, UV, OC and Reverse Supply Protection Controller with -50mV Reverse Threshold
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4368.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC3425EUH#PBF
+D LTC3425 adj 5A sync SU dc-dc converter LTC3425EUH#PBF, Boost Converter, Step Up 3A Adjustable, 2.4  5.25 V, 2000 kHz, 32-Pin QFN EP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00091855.pdf
+$ENDCMP
+#
+#End Doc Library

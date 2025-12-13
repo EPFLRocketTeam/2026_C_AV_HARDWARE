@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PESD4USB3UTBSQX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PESD4USB3UTBSQX")
+        (spec "default")
+    )
+)

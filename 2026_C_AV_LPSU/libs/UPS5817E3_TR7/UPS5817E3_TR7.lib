@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model UPS5817E3_TR7
+#/15132718/1549886/2.50/2/3/Schottky Diode
+DEF UPS5817E3_TR7 D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "UPS5817E3_TR7" 500 250 50 H V L CNN
+F2 "UPS5817E3TR7" 500 150 50 H I L CNN
+F3 "https://www.arrow.com/en/products/ups5817e3tr7/microchip-technology?region=nac" 500 50 50 H I L CNN
+F4 "Diode Schottky 20 V 1A Surface Mount Powermite 1 (DO216-AA)" 500 -50 50 H I L CNN "Description"
+F5 "1.14" 500 -150 50 H I L CNN "Height"
+F6 "494-UPS5817E3/TR7" 500 -250 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/UPS5817E3-TR7?qs=6jAvgNDGUA%2F%2F%252BAAlvxLDyQ%3D%3D" 500 -350 50 H I L CNN "Mouser Price/Stock"
+F8 "Microchip" 500 -450 50 H I L CNN "Manufacturer_Name"
+F9 "UPS5817E3/TR7" 500 -550 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

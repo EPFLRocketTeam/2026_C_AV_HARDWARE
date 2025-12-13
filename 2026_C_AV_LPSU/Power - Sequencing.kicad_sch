@@ -1,0 +1,319 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c3dec140-d54f-4118-8d38-e74a63eddbfd")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 13.97 24.892)
+		(end 74.93 25.654)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 0 0 0 1)
+		)
+		(uuid f68f298a-3afe-4091-ad43-1c363550a8b6)
+	)
+	(text_box "+??V"
+		(exclude_from_sim no)
+		(at 13.97 34.29 0)
+		(size 16.51 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 194 194 0 1)
+			)
+		)
+		(uuid "09d85549-941f-4b92-8b28-e4cf73feda4f")
+	)
+	(text_box "??V ± ??%"
+		(exclude_from_sim no)
+		(at 54.61 26.67 0)
+		(size 20.32 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "2d684ca0-d501-47a7-a8e2-9db9a17d535a")
+	)
+	(text_box "SOURCE"
+		(exclude_from_sim no)
+		(at 30.48 17.78 0)
+		(size 24.13 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "4e133532-255b-4372-832f-b348e3c5d004")
+	)
+	(text_box "SOURCE NAME"
+		(exclude_from_sim no)
+		(at 30.48 34.29 0)
+		(size 24.13 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "7bb15be0-f210-4c9f-8a88-e263ad9b0762")
+	)
+	(text_box "+??V"
+		(exclude_from_sim no)
+		(at 13.97 41.91 0)
+		(size 16.51 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 194 0 1)
+			)
+		)
+		(uuid "915c5598-f2fb-4c4e-b10d-6841d6ea029a")
+	)
+	(text_box "SOURCE NAME"
+		(exclude_from_sim no)
+		(at 30.48 41.91 0)
+		(size 24.13 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "a6e1b26d-f140-4151-94e7-535d3abf0358")
+	)
+	(text_box "SOURCE NAME"
+		(exclude_from_sim no)
+		(at 30.48 26.67 0)
+		(size 24.13 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "a8a8d0da-49e1-45d3-82c5-d2849a20908c")
+	)
+	(text_box "Power Sequencing Diagram of your PCB here"
+		(exclude_from_sim no)
+		(at 77.47 17.78 0)
+		(size 201.93 127)
+		(margins 1.905 1.905 1.905 1.905)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "af842fe2-c2a0-41d0-ab70-e26537e45150")
+	)
+	(text_box "??V ± ??%"
+		(exclude_from_sim no)
+		(at 54.61 41.91 0)
+		(size 20.32 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "d851efe0-9a46-43ff-a3eb-aa628944eb95")
+	)
+	(text_box "??V ± ??%"
+		(exclude_from_sim no)
+		(at 54.61 34.29 0)
+		(size 20.32 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "e619cc18-7f85-4d04-8b75-43e78e0cfae2")
+	)
+	(text_box "LEVEL"
+		(exclude_from_sim no)
+		(at 54.61 17.78 0)
+		(size 20.32 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "e7d32f97-db84-44c7-8139-e984726385a9")
+	)
+	(text_box "+??V"
+		(exclude_from_sim no)
+		(at 13.97 26.67 0)
+		(size 16.51 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+		)
+		(uuid "f7f3a477-b5b3-4aff-b5c4-dc36ada2a2f2")
+	)
+	(text_box "NAME"
+		(exclude_from_sim no)
+		(at 13.97 17.78 0)
+		(size 16.51 7.62)
+		(margins 1.7145 1.7145 1.7145 1.7145)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 2.286 2.286)
+				(bold yes)
+				(color 0 0 127 1)
+			)
+		)
+		(uuid "fb86e777-4505-400f-8679-ba835f385138")
+	)
+)

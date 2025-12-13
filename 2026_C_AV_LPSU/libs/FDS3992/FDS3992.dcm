@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDS3992
+D rDS(ON) = 54m(Typ.), VGS = 10V, ID = 4.5A ; Low Miller Charge ; Optimized efficiency at high frequencies ; Qg(tot) = 11nC (Typ.), VGS = 10V ; Formerly developmental type 82745 ; UIS Capability (Single Pulse and Repetitive Pulse) ; Low Qrr Body Diode
+K
+F https://www.onsemi.com/pub/Collateral/FDS3992-D.PDF
+$ENDCMP
+#
+#End Doc Library

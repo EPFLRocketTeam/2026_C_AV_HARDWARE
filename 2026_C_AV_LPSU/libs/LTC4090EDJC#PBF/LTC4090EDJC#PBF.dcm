@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4090EDJC#PBF
+D Battery Management USB Pwr Manager w/ 2A Hi V Bat-Track Buc
+K
+F https://www.analog.com/LTC4090-3/datasheet
+$ENDCMP
+#
+#End Doc Library

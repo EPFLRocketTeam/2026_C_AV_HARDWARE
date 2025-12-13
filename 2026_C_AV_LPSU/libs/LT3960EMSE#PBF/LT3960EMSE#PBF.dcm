@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3960EMSE#PBF
+D I2C to CAN-Physical Transceiver
+K
+F https://www.analog.com/LT3960/datasheet
+$ENDCMP
+#
+#End Doc Library

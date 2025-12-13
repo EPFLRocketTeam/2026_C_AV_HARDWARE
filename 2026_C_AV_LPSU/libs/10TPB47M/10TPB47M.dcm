@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10TPB47M
+D Panasonic Tantalum Capacitor 47uF 10V dc Polymer Solid +/-20% Tolerance POSCAP TPB Series
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAA8000/AAA8000C65.pdf
+$ENDCMP
+#
+#End Doc Library

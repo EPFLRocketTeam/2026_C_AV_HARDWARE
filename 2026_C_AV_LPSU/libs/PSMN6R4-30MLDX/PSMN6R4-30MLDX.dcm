@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PSMN6R4-30MLDX
+D N-Channel 30 V 66A (Tc) 51W (Tc) Surface Mount LFPAK33
+K
+F https://assets.nexperia.com/documents/data-sheet/PSMN6R4-30MLD.pdf
+$ENDCMP
+#
+#End Doc Library

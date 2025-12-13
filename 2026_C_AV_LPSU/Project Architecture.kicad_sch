@@ -1,0 +1,331 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "539ca47f-54ee-41fd-ac04-9223d6927600")
+	(paper "A4")
+	(lib_symbols)
+	(text "Project Architecture"
+		(exclude_from_sim no)
+		(at 19.05 26.67 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5 5)
+				(bold yes)
+				(color 53 60 207 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7f4d1c4-d845-46fc-9f7d-e03b36ddf932")
+	)
+	(text_box ""
+		(exclude_from_sim no)
+		(at 24.5082 33.02 0)
+		(size 248.5418 127)
+		(margins 1.905 1.905 1.905 1.905)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "e0cf6fca-6f99-4e97-a4c2-38dd10ce8630")
+	)
+	(wire
+		(pts
+			(xy 130.81 110.49) (xy 123.19 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09a3e09e-ff88-4fa8-9fc8-e001477de557")
+	)
+	(wire
+		(pts
+			(xy 130.81 93.98) (xy 123.19 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62f9042f-0772-4b0b-905b-c12dd3b4f47c")
+	)
+	(wire
+		(pts
+			(xy 123.19 93.98) (xy 123.19 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba786c4-3511-40c2-a694-cdc6e3b427a9")
+	)
+	(wire
+		(pts
+			(xy 114.3 90.17) (xy 130.81 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ec0164-715b-4e5d-ac42-5dd5fe3fde6a")
+	)
+	(wire
+		(pts
+			(xy 158.75 90.17) (xy 175.26 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd5af26a-cd92-47d0-83be-c1a1c030791f")
+	)
+	(label "CHRG_OUT"
+		(at 123.19 105.41 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "38738518-6a35-4a80-a0de-140f4d2c6b1c")
+	)
+	(sheet
+		(at 130.81 105.41)
+		(size 27.94 9.525)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a0b67ffc-57c7-40d6-a64e-a9d271f3b1f4")
+		(property "Sheetname" "Boost"
+			(at 130.81 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "boost.kicad_sch"
+			(at 130.81 115.5196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CHRG_OUT" input
+			(at 130.81 110.49 180)
+			(uuid "9e28edd8-eb38-43ab-bd43-c71d0e32bfb0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 85.09)
+		(size 27.94 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3b8938e-ed1f-4b7a-9ac5-d4cdd468ec49")
+		(property "Sheetname" "Battery Charger"
+			(at 130.81 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bat_charger.kicad_sch"
+			(at 130.81 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BAT" bidirectional
+			(at 130.81 90.17 180)
+			(uuid "29281b61-cc4c-4f09-bb79-caeef6cb3af7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HVIN" input
+			(at 158.75 90.17 0)
+			(uuid "ae638b38-8c3a-4365-9c70-ada69519f299")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CHRG_OUT" output
+			(at 130.81 93.98 180)
+			(uuid "5be0d421-df86-42c8-a1bd-21ff341ed954")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 85.09)
+		(size 29.21 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ba4dd375-ac9d-41ec-93f0-2834287f993c")
+		(property "Sheetname" "Battery"
+			(at 85.09 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bat_monitor.kicad_sch"
+			(at 85.09 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BAT" bidirectional
+			(at 114.3 90.17 0)
+			(uuid "f698e3a3-c686-4f51-b386-1f5985cb01e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 85.09)
+		(size 26.67 10.795)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c56c0222-50b4-4de0-aa37-7f6b591c47d4")
+		(property "Sheetname" "Spine Interface"
+			(at 175.26 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "spine_intf.kicad_sch"
+			(at 175.26 96.4696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "HVIN" output
+			(at 175.26 90.17 180)
+			(uuid "9b85b09c-dedc-4c77-bb9b-354b1a56d41d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "8")
+				)
+			)
+		)
+	)
+)

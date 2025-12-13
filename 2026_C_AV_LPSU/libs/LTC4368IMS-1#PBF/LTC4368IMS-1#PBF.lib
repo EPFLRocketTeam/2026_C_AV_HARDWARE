@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LTC4368IMS-1#PBF
+#/1338550/1549886/2.50/10/3/Integrated Circuit
+DEF LTC4368IMS-1#PBF IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "LTC4368IMS-1#PBF" 1150 200 50 H V L CNN
+F2 "SOP50P490X110-10N" 1150 100 50 H I L CNN
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4368.pdf" 1150 0 50 H I L CNN
+F4 "Surge Suppressors 100V OV, UV, OC and Reverse Supply Protection Controller with -50mV Reverse Threshold" 1150 -100 50 H I L CNN "Description"
+F5 "1.1" 1150 -200 50 H I L CNN "Height"
+F6 "584-LTC4368IMS1PBF" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LTC4368IMS-1PBF?qs=5aG0NVq1C4wGfnPsm%2Fm35Q%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Analog Devices" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LTC4368IMS-1#PBF" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 I
+X UV 2 0 -400 200 R 50 50 0 0 O
+X OV 3 0 -600 200 R 50 50 0 0 O
+X RETRY 4 1300 -500 200 L 50 50 0 0 I
+X GND 5 1300 -600 200 L 50 50 0 0 W
+X ~SHDN 6 0 -200 200 R 50 50 0 0 I
+X ~FAULT 7 1300 -400 200 L 50 50 0 0 I
+X VOUT 8 1300 -200 200 L 50 50 0 0 O
+X SENSE 9 1300 -100 200 L 50 50 0 0 I
+X GATE 10 1300 0 200 L 50 50 0 0 I
+P 5 0 1 6 200 100 1100 100 1100 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
