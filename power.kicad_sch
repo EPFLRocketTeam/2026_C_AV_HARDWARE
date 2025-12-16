@@ -1,0 +1,240 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9ff0aee1-35db-41db-9959-4d1b34339bd9")
+	(paper "A4")
+	(title_block
+		(title "FH2 - Spine")
+		(date "2025-12-10")
+		(rev "v1")
+		(comment 1 "Elie Baier")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 303.53 86.36) (xy 303.53 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c1070df-3a0c-4217-a98f-42a2b625fb50")
+	)
+	(wire
+		(pts
+			(xy 304.8 86.36) (xy 303.53 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7262c578-3522-4abd-a88e-fe5366b5791f")
+	)
+	(wire
+		(pts
+			(xy 302.26 83.82) (xy 302.26 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86a92946-01b0-4f67-ae47-d4bd859eccbf")
+	)
+	(wire
+		(pts
+			(xy 302.26 104.14) (xy 304.8 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a48a3375-1521-433f-986c-21604ced3962")
+	)
+	(wire
+		(pts
+			(xy 303.53 121.92) (xy 304.8 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df069495-98a9-419e-8f89-e4b90694dd5f")
+	)
+	(wire
+		(pts
+			(xy 304.8 83.82) (xy 302.26 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6aa5808-769e-4b0a-9fb1-29ed25ea1b53")
+	)
+	(sheet
+		(at 304.8 101.6)
+		(size 66.675 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5fb753d4-ccf5-41f7-bc29-bfd0745ec991")
+		(property "Sheetname" "Monitoring"
+			(at 304.8 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_mon.kicad_sch"
+			(at 304.8 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "24V_NO_MON" input
+			(at 304.8 104.14 180)
+			(uuid "57eee988-6a64-4a0e-a959-3df1010a54a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "spine"
+				(path "/9b29516b-1745-41d0-bc5f-f6cf48cfb4af/19f231c9-3ea2-4c72-8861-e175feaab368"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 304.8 81.915)
+		(size 66.675 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d90de04a-6b87-4e60-965f-fd19fdd404c4")
+		(property "Sheetname" "Management"
+			(at 304.8 81.2034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_mgmt.kicad_sch"
+			(at 304.8 96.4696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "24V_NO_MON" input
+			(at 304.8 83.82 180)
+			(uuid "3677f604-62c6-4aae-86f0-9545c1e879b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "24V_OUT_CHARGER" input
+			(at 304.8 86.36 180)
+			(uuid "65983485-e01e-4d9c-af41-318452200f06")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "spine"
+				(path "/9b29516b-1745-41d0-bc5f-f6cf48cfb4af/19f231c9-3ea2-4c72-8861-e175feaab368"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 304.8 120.015)
+		(size 67.31 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec5f26d7-fdd0-48e9-b0a5-29a04a3f71db")
+		(property "Sheetname" "Charger"
+			(at 304.8 119.3034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_charger.kicad_sch"
+			(at 304.8 134.5696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "24V_OUT_CHARGER" input
+			(at 304.8 121.92 180)
+			(uuid "18f32d36-c18c-44ad-8c6a-49de78a1ad1b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "spine"
+				(path "/9b29516b-1745-41d0-bc5f-f6cf48cfb4af/19f231c9-3ea2-4c72-8861-e175feaab368"
+					(page "6")
+				)
+			)
+		)
+	)
+)
