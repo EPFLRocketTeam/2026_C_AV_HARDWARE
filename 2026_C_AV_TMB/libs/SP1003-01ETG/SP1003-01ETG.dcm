@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP1003-01ETG
+D SP1003 Series - 30 pF 30 kV Unidirectional Discrete TVS
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp1003_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

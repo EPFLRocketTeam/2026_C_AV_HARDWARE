@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SBRT5A50SAF-13
+D Schottky Diodes & Rectifiers 5A TrenchSBR 50Vrrm 5A Io 0.53Vf 150uA
+K
+F https://www.diodes.com/assets/Datasheets/SBRT5A50SAF.pdf
+$ENDCMP
+#
+#End Doc Library

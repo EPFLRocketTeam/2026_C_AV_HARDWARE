@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model JS4PS-1W+
+#/11418292/1549886/2.50/14/3/Undefined or Miscellaneous
+DEF JS4PS-1W+ U 0 30 Y Y 1 F N
+F0 "U" 1350 300 50 H V L CNN
+F1 "JS4PS-1W+" 1350 200 50 H V L CNN
+F2 "JS4PS1W" 1350 100 50 H I L CNN
+F3 "https://www.minicircuits.com/WebStore/dashboard.html?model=JS4PS-1W%2B" 1350 0 50 H I L CNN
+F4 "RF Power Divider 5 MHz ~ 1 GHz Isolation (Min) 20dB, 12 Imbalance (Max) 14-SMD Module" 1350 -100 50 H I L CNN "Description"
+F5 "6.35" 1350 -200 50 H I L CNN "Height"
+F6 "139-JS4PS-1W" 1350 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/JS4PS-1W%2b?qs=xZ%2FP%252Ba9zWqawy%2FzVJd%252BWjQ%3D%3D" 1350 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Mini-Circuits" 1350 -500 50 H I L CNN "Manufacturer_Name"
+F9 "JS4PS-1W+" 1350 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X GROUND_1 1 0 0 200 R 50 50 0 0 P
+X PORT_1 2 0 -100 200 R 50 50 0 0 P
+X PORT_2 3 0 -200 200 R 50 50 0 0 P
+X GROUND_2 4 0 -300 200 R 50 50 0 0 P
+X PORT_3 5 0 -400 200 R 50 50 0 0 P
+X PORT_4 6 0 -500 200 R 50 50 0 0 P
+X GROUND_3 7 0 -600 200 R 50 50 0 0 P
+X GROUND_4 8 1500 -600 200 L 50 50 0 0 P
+X GROUND_5 9 1500 -500 200 L 50 50 0 0 P
+X SUM_PORT 10 1500 -400 200 L 50 50 0 0 P
+X GROUND_6 11 1500 -300 200 L 50 50 0 0 P
+X GROUND_7 12 1500 -200 200 L 50 50 0 0 P
+X GROUND_8 13 1500 -100 200 L 50 50 0 0 P
+X GROUND_9 14 1500 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

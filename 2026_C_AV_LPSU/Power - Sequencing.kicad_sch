@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "c3dec140-d54f-4118-8d38-e74a63eddbfd")
 	(paper "A4")
+	(title_block
+		(title "2026_C_AV_LPSU \"ALASTOR\"")
+		(date "2025-12-23")
+		(rev "1.0")
+		(company "EPFL Rocket Team")
+		(comment 1 "Cyprien Lacassagne")
+	)
 	(lib_symbols)
 	(rectangle
 		(start 13.97 24.892)
@@ -180,14 +187,14 @@
 		)
 		(uuid "a8a8d0da-49e1-45d3-82c5-d2849a20908c")
 	)
-	(text_box "Power Sequencing Diagram of your PCB here"
+	(text_box "Power Sequencing Diagram"
 		(exclude_from_sim no)
 		(at 77.47 17.78 0)
 		(size 201.93 127)
 		(margins 1.905 1.905 1.905 1.905)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
 		(fill
 			(type none)

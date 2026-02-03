@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CJS-1200TB
+D SMD Slide Switch, 1-Pole (SPDT)
+K
+F http://www.nidec-copal-electronics.com/e/catalog/switch/cjs.pdf
+$ENDCMP
+#
+#End Doc Library

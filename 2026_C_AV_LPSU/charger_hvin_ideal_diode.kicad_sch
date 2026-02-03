@@ -1,0 +1,1200 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "565a678b-0ea1-468a-966e-ad093a0e02cc")
+	(paper "A4")
+	(title_block
+		(title "2026_C_AV_LPSU \"ALASTOR\"")
+		(date "2025-12-23")
+		(rev "1.0")
+		(company "EPFL Rocket Team")
+		(comment 1 "Cyprien Lacassagne")
+	)
+	(lib_symbols
+		(symbol "FDMC86102LZ:FDMC86102LZ"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 21.59 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "FDMC86102LZ"
+				(at 21.59 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "FDMC86139P"
+				(at 21.59 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMC86102LZ-D.PDF"
+				(at 21.59 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "RoHS Compliant ; HBM ESD protection level > 6 KV typical (Note 4) ; Max rDS(on) = 35 m at VGS = 4.5 V, ID = 5.5 A ; Max rDS(on) = 24 m at VGS = 10 V, ID = 6.5 A ; 100% UIL Tested ; Shielded Gate MOSFET Technology"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 21.59 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "512-FDMC86102LZ"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMC86102LZ?qs=3xHz9%2FyNEPhB5ZwS6p6RVg%3D%3D"
+				(at 21.59 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "onsemi"
+				(at 21.59 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "FDMC86102LZ"
+				(at 21.59 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "FDMC86102LZ_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 20.32 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "S_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "S_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "S_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "D_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "D_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -5.08 180)
+					(length 5.08)
+					(name "D_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -7.62 180)
+					(length 5.08)
+					(name "D_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Power_Management:LTC4357DCB"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 6.35 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "LTC4357DCB"
+				(at 6.35 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_3x2mm_P0.5mm_EP1.65x1.35mm"
+				(at 6.35 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ideal diode controller, 9-80V operation, DFN-6"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "ideal-diode or-ing"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DFN*1EP*3x2mm*P0.5mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LTC4357DCB_0_1"
+				(rectangle
+					(start -5.08 7.62)
+					(end 5.08 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "LTC4357DCB_1_1"
+				(pin input line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -2.54 10.16 270)
+					(length 2.54)
+					(name "GATE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -10.16 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 2.54 10.16 270)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 -10.16 90)
+					(length 2.54)
+					(name "PAD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "Vdd"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 144.78 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22cef370-87df-4fb7-88f5-d827f3b2f75b")
+	)
+	(junction
+		(at 130.81 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3afdd25d-bbed-4283-a130-450eb6137351")
+	)
+	(junction
+		(at 115.57 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55348e9d-f743-4d88-8719-8048fe99bb2d")
+	)
+	(junction
+		(at 144.78 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79ea06c0-a6b1-4008-b616-99b798c23426")
+	)
+	(junction
+		(at 144.78 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e44af45f-3e07-4495-8b1a-e617a4264f04")
+	)
+	(junction
+		(at 115.57 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e59afa7f-49b4-46d8-9789-5be9431aa693")
+	)
+	(junction
+		(at 144.78 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e91de8cb-e442-4d77-aa09-5b25e37cf96e")
+	)
+	(wire
+		(pts
+			(xy 115.57 82.55) (xy 115.57 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "023cfd46-58d0-433f-921e-4b5f9d210274")
+	)
+	(wire
+		(pts
+			(xy 118.11 90.17) (xy 118.11 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0544e90d-ba4b-4c59-a0b7-97eb22d6a0c3")
+	)
+	(wire
+		(pts
+			(xy 118.11 105.41) (xy 128.27 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bd140d9-4165-498d-a185-cf278cb00821")
+	)
+	(wire
+		(pts
+			(xy 133.35 127) (xy 130.81 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e1fdda9-b29d-42d8-837f-d0cc2b606017")
+	)
+	(wire
+		(pts
+			(xy 130.81 127) (xy 130.81 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4305be1a-3532-43e5-9b11-2f0ac23fd44f")
+	)
+	(wire
+		(pts
+			(xy 138.43 115.57) (xy 144.78 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b79aae1-d2b7-4fb3-9111-e3bdf014cb2d")
+	)
+	(wire
+		(pts
+			(xy 144.78 85.09) (xy 144.78 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c6c3e2d-e158-450a-a4bc-6019820e1688")
+	)
+	(wire
+		(pts
+			(xy 115.57 85.09) (xy 115.57 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f3a36f7-a5a0-4e99-8220-08859273c54a")
+	)
+	(wire
+		(pts
+			(xy 118.11 85.09) (xy 115.57 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70d9b828-4b90-45e1-8a17-fa14610cf62a")
+	)
+	(wire
+		(pts
+			(xy 144.78 87.63) (xy 144.78 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "729aa243-d10c-4aac-b2ed-b30a9aec0ac6")
+	)
+	(wire
+		(pts
+			(xy 144.78 90.17) (xy 143.51 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "730ee280-e3ec-4f69-9552-297cb4a5dbd6")
+	)
+	(wire
+		(pts
+			(xy 143.51 82.55) (xy 144.78 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "915c5456-ef85-422a-bda0-97d9b091973f")
+	)
+	(wire
+		(pts
+			(xy 123.19 115.57) (xy 115.57 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab23d730-3a5b-48ce-942e-1d9c21c438e5")
+	)
+	(wire
+		(pts
+			(xy 133.35 125.73) (xy 133.35 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb333329-dc8f-4aed-bf1d-5ee56b3e0a83")
+	)
+	(wire
+		(pts
+			(xy 133.35 105.41) (xy 144.78 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce571b0b-fed6-40f1-990a-643f86088b5d")
+	)
+	(wire
+		(pts
+			(xy 115.57 115.57) (xy 115.57 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4594e53-550c-4914-860d-b5f805879a38")
+	)
+	(wire
+		(pts
+			(xy 143.51 87.63) (xy 144.78 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7a04c76-2122-477f-8385-c7056d9c6bfc")
+	)
+	(wire
+		(pts
+			(xy 144.78 105.41) (xy 144.78 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da05273f-65ef-49c1-9510-2721f576b1c0")
+	)
+	(wire
+		(pts
+			(xy 118.11 82.55) (xy 115.57 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db2738c2-45cf-4544-900a-371f278f8c33")
+	)
+	(wire
+		(pts
+			(xy 115.57 87.63) (xy 118.11 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e41171ec-71e0-493a-87a9-3946aea30450")
+	)
+	(wire
+		(pts
+			(xy 144.78 82.55) (xy 144.78 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e751b614-a422-474d-a7ea-7d8dcf5437c3")
+	)
+	(wire
+		(pts
+			(xy 144.78 105.41) (xy 144.78 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed3acde3-7f4c-420e-9fe7-6382fe1a5c95")
+	)
+	(wire
+		(pts
+			(xy 130.81 125.73) (xy 130.81 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edf64159-96ca-4289-acce-d80be0921b99")
+	)
+	(wire
+		(pts
+			(xy 143.51 85.09) (xy 144.78 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffae64e1-f447-4d25-846d-9fd740965352")
+	)
+	(hierarchical_label "D_OUT"
+		(shape output)
+		(at 144.78 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2992d0c6-a3e8-4c32-9af3-41db767cc419")
+	)
+	(hierarchical_label "D_IN"
+		(shape input)
+		(at 115.57 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e40fd30c-e6ae-4b1a-8f16-8e2dcf6fe0b9")
+	)
+	(symbol
+		(lib_id "Power_Management:LTC4357DCB")
+		(at 130.81 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5de5ac17-a014-4107-9cf2-c936f59d90f0")
+		(property "Reference" "U5"
+			(at 124.206 120.396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LTC4357DCB"
+			(at 119.634 122.428 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LTC4357IDCB#TRMPBF:SON50P300X200X80-7N-D"
+			(at 137.16 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf"
+			(at 130.81 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ideal diode controller, 9-80V operation, DFN-6"
+			(at 130.81 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Author" ""
+			(at 130.81 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fe4aa958-c0c4-4d43-9827-30e0319b2d89")
+		)
+		(pin "5"
+			(uuid "57a29cc9-2a0c-4d79-b3d0-b1e913da99b7")
+		)
+		(pin "3"
+			(uuid "a16052dc-f556-47de-a12f-1833f71c8f8c")
+		)
+		(pin "4"
+			(uuid "df954245-f16a-4875-8bf8-fde066ba6292")
+		)
+		(pin "1"
+			(uuid "2df811ac-0400-4937-8e11-5bd0da6e160a")
+		)
+		(pin "6"
+			(uuid "f41b011d-1a8c-4fe3-9c09-6cccea7c6128")
+		)
+		(pin "7"
+			(uuid "cc1606a7-d0ad-4c94-83af-130f0d33dbfd")
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549/b3b8938e-ed1f-4b7a-9ac5-d4cdd468ec49/6c7624a5-705b-4c02-a869-9795a1389e1a"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "FDMC86102LZ:FDMC86102LZ")
+		(at 118.11 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a001f092-1c70-4695-a3a3-f78d77c0c458")
+		(property "Reference" "Q2"
+			(at 130.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FDMC86102LZ"
+			(at 130.81 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "FDMC86102LZ:FDMC86139P"
+			(at 139.7 177.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMC86102LZ-D.PDF"
+			(at 139.7 277.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RoHS Compliant ; HBM ESD protection level > 6 KV typical (Note 4) ; Max rDS(on) = 35 m at VGS = 4.5 V, ID = 5.5 A ; Max rDS(on) = 24 m at VGS = 10 V, ID = 6.5 A ; 100% UIL Tested ; Shielded Gate MOSFET Technology"
+			(at 118.11 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 139.7 477.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMC86102LZ"
+			(at 139.7 577.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMC86102LZ?qs=3xHz9%2FyNEPhB5ZwS6p6RVg%3D%3D"
+			(at 139.7 677.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 139.7 777.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMC86102LZ"
+			(at 139.7 877.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Author" ""
+			(at 118.11 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "8"
+			(uuid "7c4f7d9b-46fd-4b5a-83a7-ac2173155893")
+		)
+		(pin "2"
+			(uuid "074a5a22-bc04-4b28-be43-feec95341b0b")
+		)
+		(pin "1"
+			(uuid "26bee743-a794-4b8f-a8e5-a3d36cad36d4")
+		)
+		(pin "5"
+			(uuid "915ce7ff-54ec-4563-87ad-41dc15456225")
+		)
+		(pin "6"
+			(uuid "994c94fa-bdc7-4dfd-b92c-5413a1a3aaad")
+		)
+		(pin "7"
+			(uuid "2947597b-36f5-4e74-9b7e-58d4ecb9f197")
+		)
+		(pin "3"
+			(uuid "ea835aab-2908-4b6b-9935-194241ca72a3")
+		)
+		(pin "4"
+			(uuid "47b18614-4610-4a3c-bb51-39a5919d1426")
+		)
+		(instances
+			(project ""
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549/b3b8938e-ed1f-4b7a-9ac5-d4cdd468ec49/6c7624a5-705b-4c02-a869-9795a1389e1a"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 130.81 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de457db0-09f5-4408-8cfa-2e7cbef25fdd")
+		(property "Reference" "#PWR057"
+			(at 130.81 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 130.81 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 130.81 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 130.81 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61544594-3569-4b94-a5f6-ae7baebdd9aa")
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549/b3b8938e-ed1f-4b7a-9ac5-d4cdd468ec49/6c7624a5-705b-4c02-a869-9795a1389e1a"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

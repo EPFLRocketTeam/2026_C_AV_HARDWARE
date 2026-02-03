@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMC86102LZ
+D RoHS Compliant ; HBM ESD protection level > 6 KV typical (Note 4) ; Max rDS(on) = 35 m at VGS = 4.5 V, ID = 5.5 A ; Max rDS(on) = 24 m at VGS = 10 V, ID = 6.5 A ; 100% UIL Tested ; Shielded Gate MOSFET Technology
+K
+F https://www.onsemi.com/pub/Collateral/FDMC86102LZ-D.PDF
+$ENDCMP
+#
+#End Doc Library

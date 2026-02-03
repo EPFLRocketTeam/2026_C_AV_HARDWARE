@@ -4,7 +4,184 @@
 	(generator_version "9.0")
 	(uuid "c242ef70-e0ed-46da-83f6-cb22cd1f5ac9")
 	(paper "A4")
+	(title_block
+		(title "2026_C_AV_LPSU \"ALASTOR\"")
+		(date "2025-12-23")
+		(rev "1.0")
+		(company "EPFL Rocket Team")
+		(comment 1 "Cyprien Lacassagne")
+	)
 	(lib_symbols
+		(symbol "CJS-1200TB:CJS-1200TB"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "CJS-1200TB"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "B-TYPE"
+				(at 16.51 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.nidec-copal-electronics.com/e/catalog/switch/cjs.pdf"
+				(at 16.51 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "SMD Slide Switch, 1-Pole (SPDT)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 16.51 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "229-CJS-1200TB"
+				(at 16.51 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nidec-Components/CJS-1200TB?qs=XeJtXLiO41Q3pEMXFDUf9g%3D%3D"
+				(at 16.51 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Nidec Copal"
+				(at 16.51 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "CJS-1200TB"
+				(at 16.51 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "CJS-1200TB_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -882,26 +1059,70 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "R_shunt = V_SHUNT_MAX / I_MAX\nV_SHUNT_MAX = 163.8mV\nI_MAX = 2A\nR_shunt = 21mOhm"
+	(rectangle
+		(start 68.58 105.41)
+		(end 113.03 133.35)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a329e1f4-507c-4937-a816-c5e740ee4db4)
+	)
+	(text "Address selection"
 		(exclude_from_sim no)
-		(at 133.35 69.85 0)
+		(at 78.232 108.204 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
 		)
-		(uuid "4dc8d45f-57e9-4d9b-9c4d-4e6ffc4ee590")
+		(uuid "1855706e-76e2-4c02-806c-6d4502844641")
 	)
 	(text "0x41"
 		(exclude_from_sim no)
-		(at 150.876 134.112 0)
+		(at 100.33 124.206 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "59907e6d-e8bf-4fb2-9d95-b55b9345e201")
+	)
+	(text "0x49"
+		(exclude_from_sim no)
+		(at 100.076 115.316 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6b6ab0fc-36e6-4cab-ac05-643019d5f643")
+	)
+	(text_box "R_shunt = V_SHUNT_MAX / I_MAX\nV_SHUNT_MAX = 163.8mV\nI_MAX = 2A\nR_shunt = 21mOhm"
+		(exclude_from_sim no)
+		(at 117.475 56.515 0)
+		(size 49.53 15.24)
+		(margins 1.8 1.8 1.8 1.8)
+		(stroke
+			(width 0.6)
+			(type solid)
+			(color 132 132 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(color 0 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "3d05591b-c637-4be0-8802-883285b8ac6f")
 	)
 	(junction
 		(at 143.51 100.33)
@@ -1095,7 +1316,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 125.73) (xy 151.13 128.27)
+			(xy 151.13 125.73) (xy 151.13 130.81)
 		)
 		(stroke
 			(width 0)
@@ -1122,6 +1343,16 @@
 			(type default)
 		)
 		(uuid "bdc56129-0b8b-4cdf-8c77-8fa0a3a6e70e")
+	)
+	(wire
+		(pts
+			(xy 74.93 120.65) (xy 78.74 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c96e542b-42a7-4885-b4c3-356b1b969dc6")
 	)
 	(wire
 		(pts
@@ -1163,6 +1394,26 @@
 		)
 		(uuid "ff96afff-8b49-410c-9a08-0ecf02378f15")
 	)
+	(label "A1"
+		(at 151.13 130.81 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "240b3f6f-1d64-458e-8768-0aa562b682c2")
+	)
+	(label "A1"
+		(at 74.93 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc2954be-84c8-4055-8447-e319b42db8aa")
+	)
 	(global_label "SDA"
 		(shape bidirectional)
 		(at 143.51 128.27 270)
@@ -1181,6 +1432,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape bidirectional)
+		(at 99.06 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "355b11b7-6dca-4b92-9535-c59bc5154996")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 106.7246 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -1271,6 +1544,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Author" ""
+			(at 143.51 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1609,6 +1890,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 139.7 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5cafd814-2982-4a19-9c0e-148d9b4feebb")
 		)
@@ -1679,6 +1968,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 135.89 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1348a073-0ece-4489-8a2e-46a754afe6e1")
 		)
@@ -1744,6 +2041,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Author" ""
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1816,6 +2121,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 160.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6c4632dd-ad68-4ec1-a866-605cd51dfbfd")
 		)
@@ -1883,6 +2196,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 143.51 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "051165be-edb4-4f60-bf7f-b2a6dd3e581c")
 		)
@@ -1923,9 +2244,139 @@
 		)
 	)
 	(symbol
+		(lib_id "CJS-1200TB:CJS-1200TB")
+		(at 99.06 120.65 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4269f3d-328a-4731-b82d-b95cb031d9f4")
+		(property "Reference" "S2"
+			(at 88.9 114.046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CJS-1200TB"
+			(at 88.9 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CJS-1200TB:B-TYPE"
+			(at 82.55 25.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.nidec-copal-electronics.com/e/catalog/switch/cjs.pdf"
+			(at 82.55 -74.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Slide Switch, 1-Pole (SPDT)"
+			(at 99.06 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 82.55 -274.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "229-CJS-1200TB"
+			(at 82.55 -374.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nidec-Components/CJS-1200TB?qs=XeJtXLiO41Q3pEMXFDUf9g%3D%3D"
+			(at 82.55 -474.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Nidec Copal"
+			(at 82.55 -574.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CJS-1200TB"
+			(at 82.55 -674.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Author" ""
+			(at 99.06 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "5382094d-2b0f-40b3-b663-88dc54bcde92")
+		)
+		(pin "2"
+			(uuid "298f5dc0-28cd-4241-b4ab-9da370ca30a0")
+		)
+		(pin "1"
+			(uuid "c83eed12-8883-4cc7-b48e-7405ec207c5e")
+		)
+		(instances
+			(project "2026_C_AV_LPSU"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549/a0b67ffc-57c7-40d6-a64e-a9d271f3b1f4/1cbcf316-6830-4735-a455-56d3a3d8f76a"
+					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 151.13 128.27 0)
+		(at 99.06 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1934,7 +2385,7 @@
 		(fields_autoplaced yes)
 		(uuid "edfc6bac-4645-467c-87dc-13a490f5003d")
 		(property "Reference" "#PWR046"
-			(at 151.13 134.62 0)
+			(at 105.41 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,7 +2394,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 133.35 0)
+			(at 104.14 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1952,7 +2403,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 128.27 0)
+			(at 99.06 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1961,7 +2412,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 128.27 0)
+			(at 99.06 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1970,7 +2421,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 128.27 0)
+			(at 99.06 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)

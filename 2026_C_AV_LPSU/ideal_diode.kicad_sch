@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "88182f53-340e-49e9-a5fd-2b8b293066d6")
 	(paper "A4")
+	(title_block
+		(title "2026_C_AV_LPSU \"ALASTOR\"")
+		(date "2025-12-23")
+		(rev "1.0")
+		(company "EPFL Rocket Team")
+		(comment 1 "Cyprien Lacassagne")
+	)
 	(lib_symbols
 		(symbol "PSMN6R4-30MLDX:PSMN6R4-30MLDX"
 			(pin_names
@@ -1505,6 +1512,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 140.97 112.903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a9597b8-2e58-4237-9c4b-ce9a949cf253")
 		)
@@ -1792,6 +1807,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 134.112 87.757 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f93e2f7d-54d1-4385-a5db-8104f55a5d07")
 		)
@@ -1987,6 +2010,14 @@
 				(hide yes)
 			)
 		)
+		(property "Author" ""
+			(at 129.54 106.553 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0035410-e7d4-4bb6-bb9c-82fd3276a208")
 		)
@@ -2169,6 +2200,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Author" ""
+			(at 153.67 112.903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

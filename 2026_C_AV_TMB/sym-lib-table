@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TLV75533PDYDR")(type "KiCad")(uri "${KIPRJMOD}/libs/TLV75533PDYDR/TLV75533PDYDR.kicad_sym")(options "")(descr ""))
+  (lib (name "PESD4USB3UTBS-QX")(type "KiCad")(uri "${KIPRJMOD}/libs/PESD4USB3UTBS-QX/KiCad/PESD4USB3UTBS-QX.kicad_sym")(options "")(descr ""))
+  (lib (name "SP1003-01ETG")(type "KiCad")(uri "${KIPRJMOD}/libs/SP1003-01ETG/SP1003-01ETG.kicad_sym")(options "")(descr ""))
+  (lib (name "SEPS-4-272+")(type "KiCad")(uri "${KIPRJMOD}/libs/SEPS-4-272+/SEPS-4-272+.kicad_sym")(options "")(descr ""))
+  (lib (name "JS4PS-1W+")(type "KiCad")(uri "${KIPRJMOD}/libs/JS4PS-1W+/JS4PS-1W+.kicad_sym")(options "")(descr ""))
+)

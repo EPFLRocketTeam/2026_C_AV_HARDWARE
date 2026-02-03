@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD4USB3UTBS_QX'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PESD4USB3UTBS-QX" (!) = "", "PESD4USB3UTBSQX", "Other", "", "", "plastic, leadless thin small outline package with SideWettable Flanks (SWF); 10 terminals; 0.5 mm pitch; 2.5 mm x 1 mm x 0.75 mm body", "https://www.digikey.ph/en/products/detail/nexperia-usa-inc/PESD4USB3UTBS-QX/19109985?msockid=39f1ec84d77b6f4428b7f904d6676eed", "0.8 mm"
+END_PART
+
+END.

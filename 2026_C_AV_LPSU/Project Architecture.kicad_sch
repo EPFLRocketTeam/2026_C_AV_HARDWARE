@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "539ca47f-54ee-41fd-ac04-9223d6927600")
 	(paper "A4")
+	(title_block
+		(title "2026_C_AV_LPSU \"ALASTOR\"")
+		(date "2025-12-23")
+		(rev "1.0")
+		(company "EPFL Rocket Team")
+		(comment 1 "Cyprien Lacassagne")
+	)
 	(lib_symbols)
 	(text "Project Architecture"
 		(exclude_from_sim no)
@@ -196,16 +203,6 @@
 				(justify left)
 			)
 		)
-		(pin "HVIN" input
-			(at 158.75 90.17 0)
-			(uuid "ae638b38-8c3a-4365-9c70-ada69519f299")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "CHRG_OUT" output
 			(at 130.81 93.98 180)
 			(uuid "5be0d421-df86-42c8-a1bd-21ff341ed954")
@@ -214,6 +211,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "HVIN_SPINE" input
+			(at 158.75 90.17 0)
+			(uuid "99edd8d9-8345-4a39-b8b4-d082d1db86bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -310,9 +317,9 @@
 				(justify left top)
 			)
 		)
-		(pin "HVIN" output
+		(pin "HVIN_SPINE" output
 			(at 175.26 90.17 180)
-			(uuid "9b85b09c-dedc-4c77-bb9b-354b1a56d41d")
+			(uuid "cd6b14b0-337c-46ec-bb56-4729a03d179e")
 			(effects
 				(font
 					(size 1.27 1.27)

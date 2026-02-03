@@ -1,0 +1,142 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PESD4USB3UTBS-QX"
+   (description "plastic, leadless thin small outline package with SideWettable Flanks (SWF); 10 terminals; 0.5 mm pitch; 2.5 mm x 1 mm x 0.75 mm body")
+   (family "ANA")
+   (package "PESD4USB3UTBSQX")
+   (attribute "Datasheet Link" "https://www.digikey.ph/en/products/detail/nexperia-usa-inc/PESD4USB3UTBS-QX/19109985?msockid=39f1ec84d77b6f4428b7f904d6676eed")
+   (attribute "Geometry.Height" "0.8mm")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "PESD4USB3UTBS-QX")
+   (gate
+    (symbol "PESD4USB3UTBS-QX")
+    (pin "CH1" 1 PS)
+    (pin "CH2" 2 PS)
+    (pin "GND_1" 3 PS)
+    (pin "CH3" 4 PS)
+    (pin "CH4" 5 PS)
+    (pin "N.C._1" 6 PS)
+    (pin "N.C._2" 7 PS)
+    (pin "GND_2" 8 PS)
+    (pin "N.C._3" 9 PS)
+    (pin "N.C._4" 10 PS)
+   )
+  )
+  (symbol "PESD4USB3UTBS-QX"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PESD4USB3UTBSQX"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.25 0.5)
+      (pt 1.25 0.5)
+      (pt 1.25 -0.5)
+      (pt -1.25 -0.5)
+      (pt -1.25 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.25 1.725)
+      (pt 2.25 1.725)
+      (pt 2.25 -1.725)
+      (pt -2.25 -1.725)
+      (pt -2.25 1.725))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 -1.2)
+      (arc (pt -1.000 -1.200) (pt -1.050 -1.200) (pt -0.950 -1.100) (start 180.0) (sweep -90.0))
+      (pt -1 -1.1)
+      (arc (pt -1.000 -1.100) (pt -1.050 -1.200) (pt -0.950 -1.100) (start 180.0) (sweep 90.0))
+      (pt -1 -1.2))))
+   (leg 1 (pt -1.000 -0.425) (padstack 0))
+   (leg 2 (pt -0.500 -0.425) (padstack 0))
+   (leg 3 (pt 0.000 -0.425) (padstack 0))
+   (leg 4 (pt 0.500 -0.425) (padstack 0))
+   (leg 5 (pt 1.000 -0.425) (padstack 0))
+   (leg 6 (pt 1.000 0.425) (padstack 0))
+   (leg 7 (pt 0.500 0.425) (padstack 0))
+   (leg 8 (pt 0.000 0.425) (padstack 0))
+   (leg 9 (pt -0.500 0.425) (padstack 0))
+   (leg 10 (pt -1.000 0.425) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.600 0 0 90.000))
+   )
+   (model "PESD4USB3UTBS-QX.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TLV75533PDYDR")(type "KiCad")(uri "${KIPRJMOD}/libs/TLV75533PDYDR/TLV75533PDYDR.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/libs/PESD4USB3UTBS-QX/KiCad")(options "")(descr ""))
+  (lib (name "SP1003-01ETG")(type "KiCad")(uri "${KIPRJMOD}/libs/SP1003-01ETG/SP1003-01ETG.pretty")(options "")(descr ""))
+  (lib (name "SEPS-4-272+")(type "KiCad")(uri "${KIPRJMOD}/libs/SEPS-4-272+/SEPS-4-272+.pretty")(options "")(descr ""))
+  (lib (name "JS4PS-1W+")(type "KiCad")(uri "${KIPRJMOD}/libs/JS4PS-1W+/JS4PS-1W+.pretty")(options "")(descr ""))
+)
