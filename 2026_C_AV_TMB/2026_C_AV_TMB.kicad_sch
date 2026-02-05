@@ -6254,7 +6254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 109.22 110.49 0)
 			(effects
 				(font
@@ -6818,7 +6818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 109.22 105.41 0)
 			(effects
 				(font
@@ -6953,7 +6953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 109.22 102.87 0)
 			(effects
 				(font
@@ -7660,7 +7660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 204.47 113.03 0)
 			(effects
 				(font
@@ -8363,7 +8363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 204.47 102.87 0)
 			(effects
 				(font
@@ -8498,7 +8498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 204.47 105.41 0)
 			(effects
 				(font
@@ -8984,7 +8984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 204.47 110.49 0)
 			(effects
 				(font
@@ -10299,7 +10299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Molex_73251-2200_Horizontal"
+		(property "Footprint" "901-143-6RFX:9011436RFX"
 			(at 109.22 113.03 0)
 			(effects
 				(font

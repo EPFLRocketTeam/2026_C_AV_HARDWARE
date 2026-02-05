@@ -5,4 +5,5 @@
   (lib (name "SP1003-01ETG")(type "KiCad")(uri "${KIPRJMOD}/libs/SP1003-01ETG/SP1003-01ETG.pretty")(options "")(descr ""))
   (lib (name "SEPS-4-272+")(type "KiCad")(uri "${KIPRJMOD}/libs/SEPS-4-272+/SEPS-4-272+.pretty")(options "")(descr ""))
   (lib (name "JS4PS-1W+")(type "KiCad")(uri "${KIPRJMOD}/libs/JS4PS-1W+/JS4PS-1W+.pretty")(options "")(descr ""))
+  (lib (name "901-143-6RFX")(type "KiCad")(uri "${KIPRJMOD}/libs/901-143-6RFX/901-143-6RFX.pretty")(options "")(descr ""))
 )
