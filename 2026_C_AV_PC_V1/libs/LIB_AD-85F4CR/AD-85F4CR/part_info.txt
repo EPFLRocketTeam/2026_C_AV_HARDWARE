@@ -1,0 +1,9 @@
+Manufacturer=AATC
+PartNumber=AD-85F4CR
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=3
+Version=1.3
+Released=2025-05-10 07:28:57
+Downloaded=2025-07-29 17:03:18
+3D=Y

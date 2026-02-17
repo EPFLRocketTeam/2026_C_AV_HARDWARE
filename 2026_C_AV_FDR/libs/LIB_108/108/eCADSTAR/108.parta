@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_379318"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-13-13:06:35)
+    (utime 2024-09-05-10:30:49)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "108")
+)
+
+
+(pinAssign "ECS_379318"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-13-13:06:35)
+    (utime 2024-09-05-10:30:49)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_379318")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "108")
+)
+
+
+(part "108"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-13-13:06:35)
+    (utime 2024-09-05-10:30:49)
+    (packageRef "108")
+    (pinAssignRef "ECS_379318")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "Cylindrical Battery Contacts, Clips, Holders & Springs Battery HOLDER PC 1/2 AA")
+    (property "Mouser_Part_Number" "534-108")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/108?qs=Q3RoVmURDomBWyH0dBAK9w%3D%3D")
+    (property "Manufacturer_Name" "Keystone Electronics")
+    (property "Manufacturer_Part_Number" "108")
+    (property "Datasheet_Link" "https://www.mouser.se/datasheet/2/215/108-745412.pdf")
+)
+
+

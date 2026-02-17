@@ -1,0 +1,16 @@
+.DMP2008UFG-7 :1 ;Diodes Inc DMP2008UFG-7 P-channel MOSFET Transistor, 11 A, -20 V, 8-Pin POWERDI3333
+DMTH8008LFGQ7
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN DMP2008UFG-7
+~!Mouser Part Number (621-DMP2008UFG-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP2008UFG-7?qs=wo71MgyKIyHArDy7nW0BNA%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DMP2008UFG-7)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/DMP2008UFG.pdf)
+~!Height (0.8mm)
+~!3D_Model (DMP2008UFG-7)
+DMP2008UFG-7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

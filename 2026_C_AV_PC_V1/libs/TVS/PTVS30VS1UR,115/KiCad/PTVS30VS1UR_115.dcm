@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTVS30VS1UR,115
+D TVS Diodes - Transient Voltage Suppressors TVS UNI-DIR 30V 400W
+K
+F https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf
+$ENDCMP
+#
+#End Doc Library

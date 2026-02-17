@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP602_E_SN'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP602-E/SN" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "579-MCP602-E/SN", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP602-E-SN?qs=iRhCjdSJZe6hCMMETMefXQ%3D%3D", "Microchip MCP602-E/SN, Dual Op Amp, 2.8MHz Rail-Rail, 2.7  6 V, 8-Pin SOIC", "https://www.mouser.in/datasheet/2/268/21314g-2449592.pdf", "1.75 mm"
+END_PART
+
+END.

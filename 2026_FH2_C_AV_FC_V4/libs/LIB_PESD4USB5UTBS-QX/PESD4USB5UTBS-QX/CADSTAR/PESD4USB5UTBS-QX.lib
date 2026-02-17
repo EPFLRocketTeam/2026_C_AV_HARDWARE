@@ -1,0 +1,16 @@
+.PESD4USB5UTBS-QX :1 ;PESD4USB5UTBS-Q - ESD protection for high-speed interfaces@en-us
+PESD4USB5UTBSQX
+*STM D
+*NGS
+*PLB 1="CH1" 2="CH2" 3="GND_1" 4="CH3" 5="CH4" 6="N.C._1" 7="N.C._2" 8="GND_2" 9="N.C._3" 10="N.C._4"
+*MXP 10
+*DFN PESD4USB5UTBS-QX
+~!Mouser Part Number (771-PESD4USB5UTBS-QX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PESD4USB5UTBS-QX?qs=3Rah4i%252BhyCF%2FA1UwCqjauQ%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PESD4USB5UTBS-QX)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PESD4USB5UTBS-Q.pdf)
+~!Height (0.8mm)
+~!3D_Model (PESD4USB5UTBS-QX)
+PESD4USB5UTBS-QX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

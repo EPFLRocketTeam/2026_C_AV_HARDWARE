@@ -1,0 +1,16 @@
+.107 :1 ;KEYSTONE - 107 - BATTERY HOLDER, 23MM COIN CELL, THROUGH HOLE
+"107"
+*STM U
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 107
+~!Mouser Part Number (534-107)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/107?qs=Q3RoVmURDolD5lQJEVRplg%3D%3D)
+~!Manufacturer_Name (Keystone Electronics)
+~!Manufacturer_Part_Number (107)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/107.pdf)
+~!Height (8.5mm)
+~!3D_Model (107)
+"107"
+1.1!U 2.1!U 

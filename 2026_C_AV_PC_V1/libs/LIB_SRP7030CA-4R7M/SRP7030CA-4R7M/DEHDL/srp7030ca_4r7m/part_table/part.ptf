@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRP7030CA_4R7M'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRP7030CA-4R7M" (!) = "", "SRP7030CA2R2M", "Other", "652-SRP7030CA-4R7M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRP7030CA-4R7M?qs=PzGy0jfpSMvKDOfDezgaiA%3D%3D", "Fixed Inductors Ind,7.8x7.6x2.9mm,4.7uH 20%,9A,Shd,SMD", "https://componentsearchengine.com/Datasheets/1/SRP7030CA-4R7M.pdf", "3.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0157010.DR
+D Littelfuse 10A FF Non-Resettable Surface Mount Fuse, 125V
+K
+F https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

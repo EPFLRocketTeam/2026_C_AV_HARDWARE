@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PESD4USB5UTBS-QX
+PartCategory=Diode ESD (Uni-directional)
+PackageCategory=Other
+PinCount=10
+Version=2.4
+Released=2024-03-21 11:03:58
+Downloaded=2025-02-25 14:34:47
+3D=Y

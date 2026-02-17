@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP1642D-50I/MS
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2022-05-22 14:56:22
+Downloaded=2025-11-24 18:32:15
+3D=Y

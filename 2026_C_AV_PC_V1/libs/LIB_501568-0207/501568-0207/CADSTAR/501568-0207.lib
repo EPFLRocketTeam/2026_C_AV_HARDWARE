@@ -1,0 +1,17 @@
+.501568-0207 :1 ;Molex PICO-CLASP Series, Series Number 501568, 1mm Pitch 2 Way 2 Row Right Angle PCB Header, Solder Termination, 1A
+"5015680207"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=MP1 4=MP2
+*PLB 1="1" 2="2" 3="MP1" 4="MP2"
+*MXP 4
+*DFN 501568-0207
+~!Mouser Part Number (538-501568-0207)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/501568-0207?qs=uEWtSLL707WbFjnit2JOEg%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (501568-0207)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/5015680207_sd.pdf)
+~!Height (3.4mm)
+~!3D_Model (501568-0207)
+"501568-0207"
+1.1!U 2.1!U 3.1!U 4.1!U 

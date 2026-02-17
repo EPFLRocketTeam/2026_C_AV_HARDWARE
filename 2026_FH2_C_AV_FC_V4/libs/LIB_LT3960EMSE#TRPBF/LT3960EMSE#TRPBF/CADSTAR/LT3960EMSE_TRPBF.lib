@@ -1,0 +1,16 @@
+.LT3960EMSE_TRPBF :1 ;n Protected from Overvoltage Line Faults to +/-40V n Up to 400kbps I2C Communications n 4V to 60V Power Supply Range with Internal 3.3V Regulator n 3.3V or 5V Bus Voltage n Extended Common Mode Range (+/-36V) n Current Limited Drivers with Thermal Shutdown n Power-Up/Down Glitch Free Driver Outputs n Low Current Shutdown Mode n Transmit Data Dominant Timeout Function n E- and J-Grades Available n Available in a 10-Lead MSOP Package n AEC-Q100 Qualified for Automotive Applications
+SOP50P490X110-11N
+*STM IC
+*NGS
+*PLB 1="CANSDAL" 2="CANSDAH" 3="GND_1" 4="CANSCLH" 5="CANSCLL" 6="VIN" 7="EN/MODE" 8="VCC" 9="SCL" 10="SDA" 11="GND_2"
+*MXP 11
+*DFN LT3960EMSE_TRPBF
+~!Mouser Part Number (584-LT3960EMSE#TRPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT3960EMSETRPBF?qs=T94vaHKWudSYrMnOgEOV%252BA%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LT3960EMSE#TRPBF)
+~!Link Datasheet (https://www.analog.com/LT3960/datasheet)
+~!Height (1.1mm)
+~!3D_Model (LT3960EMSE#TRPBF)
+LT3960EMSE_TRPBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

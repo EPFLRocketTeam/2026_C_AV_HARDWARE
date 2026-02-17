@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP602-E/SN
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2022-01-20 09:24:19
+Downloaded=2025-05-06 16:11:43
+3D=Y

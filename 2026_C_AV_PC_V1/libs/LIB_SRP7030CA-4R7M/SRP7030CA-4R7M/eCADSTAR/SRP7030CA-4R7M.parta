@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_2286978"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-22-08:48:08)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SRP7030CA-4R7M")
+)
+
+
+(pinAssign "ECS_2286978"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-22-08:48:08)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_2286978")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SRP7030CA-4R7M")
+)
+
+
+(part "SRP7030CA-4R7M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-22-08:48:08)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SRP7030CA-4R7M")
+    (pinAssignRef "ECS_2286978")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "Fixed Inductors Ind,7.8x7.6x2.9mm,4.7uH 20%,9A,Shd,SMD")
+    (property "Mouser_Part_Number" "652-SRP7030CA-4R7M")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SRP7030CA-4R7M?qs=PzGy0jfpSMvKDOfDezgaiA%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "SRP7030CA-4R7M")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/SRP7030CA-4R7M.pdf")
+    (property "compAreaTopHeight" 3.1)
+)
+
+

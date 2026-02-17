@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BSC340N08NS3G"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BSC340N08NS3G")
+        (spec "default")
+    )
+)

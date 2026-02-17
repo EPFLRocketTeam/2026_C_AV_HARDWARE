@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=CSS-0575A-SMT-TR
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=3
+Version=6.2
+Released=2017-09-15 15:34:21
+Downloaded=2025-07-29 17:40:08
+3D=Y

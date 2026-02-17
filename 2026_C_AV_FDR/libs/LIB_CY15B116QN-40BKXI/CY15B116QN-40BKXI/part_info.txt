@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=CY15B116QN-40BKXI
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=24
+Version=2.1
+Released=2023-01-13 10:06:33
+Downloaded=2025-12-16 11:49:57
+3D=Y

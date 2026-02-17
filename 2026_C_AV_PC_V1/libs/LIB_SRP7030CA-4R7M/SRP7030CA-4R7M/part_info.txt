@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRP7030CA-4R7M
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2019-10-22 08:48:08
+Downloaded=2025-11-29 18:32:05
+3D=Y

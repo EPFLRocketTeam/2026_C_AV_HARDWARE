@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-26082019-085980";"";
+"REFERENCE";"292304-2";"";
+"TraceParts.PartTitle";"Connecteur USB de type B Version 2.0, Femelle, 1 Port, Angle droit, Montage sur CI, traversant";"";
+"SUPPLIER";"TE Connectivity";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/7952330?cm_mmc=en-ds-_-mcad-_-traceparts-_-7952330'";"";
+"rs_stock_number";"7952330";"";
+"DESIGN";"Connecteur USB de type B Version 2.0, Femelle, 1 Port, Angle droit, Montage sur CI, traversant";"";
+"TraceParts.InstanceId";"10-26082019-085980EFQLCZ8SJXXN5JF90R3QFH0V";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.PartVersion";"1.0.7";"";

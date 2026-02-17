@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '87427_0402'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "87427-0402" (!) = "", "87427-04YY_347202", "Other", "538-87427-0402", "https://www.mouser.co.uk/ProductDetail/Molex/87427-0402?qs=BpFtYU5tmpvCqnqQ9%2FJ56w%3D%3D", "Mini-Fit Jr. Header, 4.20mm Pitch, Right-Angle, without Flange, 4 Circuits", "https://www.molex.com/pdm_docs/sd/874270202_sd.pdf", "11.4 mm"
+END_PART
+
+END.

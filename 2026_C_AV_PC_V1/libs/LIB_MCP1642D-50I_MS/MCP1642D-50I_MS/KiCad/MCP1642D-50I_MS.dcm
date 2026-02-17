@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1642D-50I_MS
+D Switching Voltage Regulators Step-up DC/DC Reg 1 MHz, 1.6A, 5Vout
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572899
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,170 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BSC093N04LSGATMA1"
+   (description "INFINEON - BSC093N04LSGATMA1 - MOSFET, N CH, 49A, 40V, PG-TDSON-8")
+   (family "TRX")
+   (package "BSC340N08NS3G")
+   (attribute "Datasheet Link" "https://www.infineon.com/dgdl/Infineon-BSC093N04LSG-DS-v02_01-en.pdf?fileId=db3a30431689f4420116c44a1fa80822")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "726-BSC093N04LSGATMA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC093N04LSGATMA1?qs=K00xGehIljvqz%2F%2Fk43Bdgg%3D%3D")
+   (attribute "Manufacturer_Name" "Infineon")
+   (attribute "Manufacturer_Part_Number" "BSC093N04LSGATMA1")
+   (gate
+    (symbol "BSC093N04LSGATMA1")
+    (pin "S_1" 1 PS)
+    (pin "S_2" 2 PS)
+    (pin "S_3" 3 PS)
+    (pin "G" 4 PS)
+    (pin "D_1" 5 PS)
+    (pin "D_2" 6 PS)
+    (pin "D_3" 7 PS)
+    (pin "D_4" 8 PS)
+    (pin "D_5" 9 PS)
+   )
+  )
+  (symbol "BSC093N04LSGATMA1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BSC340N08NS3G"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.575 2.95)
+      (pt 2.575 2.95)
+      (pt 2.575 -2.95)
+      (pt -2.575 -2.95)
+      (pt -2.575 2.95))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.575 4.271)
+      (pt 3.575 4.271)
+      (pt 3.575 -4.307)
+      (pt -3.575 -4.307)
+      (pt -3.575 4.271))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.54 2.95)
+      (pt -2.575 -2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.54 2.95)
+      (pt 2.575 -2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.9 -3.6)
+      (arc (pt -1.900 -3.600) (pt -1.950 -3.700) (pt -1.850 -3.600) (start 180.0) (sweep 90.0))
+      (pt -1.9 -3.7)
+      (arc (pt -1.900 -3.700) (pt -1.950 -3.700) (pt -1.850 -3.600) (start 180.0) (sweep -90.0))
+      (pt -1.9 -3.6))))
+   (leg 1 (pt -1.905 -2.900) (padstack 0))
+   (leg 2 (pt -0.635 -2.900) (padstack 0))
+   (leg 3 (pt 0.635 -2.900) (padstack 0))
+   (leg 4 (pt 1.905 -2.900) (padstack 0))
+   (leg 5 (pt 1.905 2.888) (padstack 5))
+   (leg 6 (pt 0.635 2.888) (padstack 6))
+   (leg 7 (pt -0.635 2.888) (padstack 7))
+   (leg 8 (pt -1.905 2.888) (padstack 8))
+   (leg 9 (pt 0.000 0.678) (padstack 9))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 0.815 0 0 90.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 0.765 0 0 90.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 0.765 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 0.765 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 0.765 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 3.655 4.310 0 0 0.000))
+   )
+   (model "BSC093N04LSGATMA1.stp"
+    (euler 0 0 0)
+    (offset 145.85000610351562 -42.459999084472656 -47.779998779296875)
+   )
+  )
+ )
+)

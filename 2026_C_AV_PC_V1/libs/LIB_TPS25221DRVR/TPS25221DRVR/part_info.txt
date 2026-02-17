@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS25221DRVR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=1.1
+Released=2020-01-29 07:53:17
+Downloaded=2025-11-30 09:19:20
+3D=Y

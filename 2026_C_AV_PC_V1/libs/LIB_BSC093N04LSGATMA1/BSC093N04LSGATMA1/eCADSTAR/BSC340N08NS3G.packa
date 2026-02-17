@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BSC093N04LSGATMA1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-06-30-16:13:32)
+    (mountForm default
+        (footprintRef "BSC340N08NS3G")
+        (spec "System")
+    )
+)

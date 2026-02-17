@@ -1,0 +1,16 @@
+.MCP1642D-50I_MS :1 ;Switching Voltage Regulators Step-up DC/DC Reg 1 MHz, 1.6A, 5Vout
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="EN" 2="NC" 3="PG" 4="VOUT" 5="SW" 6="PGND" 7="SGND" 8="VIN"
+*MXP 8
+*DFN MCP1642D-50I_MS
+~!Mouser Part Number (579-MCP1642D-50I/MS)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP1642D-50I-MS?qs=kUzwwg2uGjVoXH8JFWZOdQ%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP1642D-50I/MS)
+~!Link Datasheet (http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572899)
+~!Height (1.1mm)
+~!3D_Model (MCP1642D-50I_MS)
+MCP1642D-50I_MS
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

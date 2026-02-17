@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX680CSA+
+D Charge Pump INV/STPUP  10V 10mA
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-340121.pdf
+$ENDCMP
+#
+#End Doc Library

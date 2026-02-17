@@ -1,0 +1,16 @@
+.2920L600_24SLER :1 ;Low Rho Surface Mount Resettable PTC Fuse
+"2920L700SLPR"
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 2920L600_24SLER
+~!Mouser Part Number (576-2920L600/24SLER)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/2920L600-24SLER?qs=7MVldsJ5Uaz%2FccYHZvZIZA%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (2920L600/24SLER)
+~!Link Datasheet (https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf)
+~!Height (1.2mm)
+~!3D_Model (2920L600_24SLER)
+"2920L600_24SLER"
+1.1!U 2.1!U 

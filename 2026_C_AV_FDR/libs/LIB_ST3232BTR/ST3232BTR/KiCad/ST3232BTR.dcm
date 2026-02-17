@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST3232BTR
+D ST3232BTR, Line Transceiver, EIA/TIA-232, RS-232, V.24, V.28 2-TX 2-RX 2-TRX, 3.3 V, 5 V, 16-Pin TSSOP
+K
+F https://www.st.com/resource/en/datasheet/st3232b.pdf
+$ENDCMP
+#
+#End Doc Library

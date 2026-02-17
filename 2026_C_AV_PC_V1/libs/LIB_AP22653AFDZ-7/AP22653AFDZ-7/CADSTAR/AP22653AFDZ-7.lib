@@ -1,0 +1,16 @@
+.AP22653AFDZ-7 :1 ;Power Switch ICs - Power Distribution Load Switch W-DFN2020-6 T&R 3K
+SON65P200X200X80-7N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="ILIM" 3="'FAULT'" 4="EN" 5="GND" 6="IN" 7="EP"
+*MXP 7
+*DFN AP22653AFDZ-7
+~!Mouser Part Number (621-AP22653AFDZ-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP22653AFDZ-7?qs=W%2FMpXkg%252BdQ5j0cis9bApsQ%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (AP22653AFDZ-7)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/AP22652_53_52A_53A.pdf)
+~!Height (0.8mm)
+~!3D_Model (AP22653AFDZ-7)
+AP22653AFDZ-7
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 

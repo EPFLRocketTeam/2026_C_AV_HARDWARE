@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=FDC1004DGSR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=1.1
+Released=2019-02-28 13:39:20
+Downloaded=2025-11-29 15:01:51
+3D=Y

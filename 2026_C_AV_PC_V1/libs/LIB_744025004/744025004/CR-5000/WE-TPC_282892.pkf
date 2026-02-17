@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "WE-TPC_282892"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "WE-TPC_282892")
+        (spec "default")
+    )
+)

@@ -1,0 +1,16 @@
+.SQ2318AES-T1_BE3 :1 ;MOSFET N-CHANNEL 40V (D-S)
+SOT95P237X112-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN SQ2318AES-T1_BE3
+~!Mouser Part Number (78-SQ2318AES-T1_BE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/SQ2318AES-T1_BE3?qs=TiOZkKH1s2QuMGPo0iDprw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SQ2318AES-T1_BE3)
+~!Link Datasheet (https://www.mouser.co.uk/datasheet/2/427/sq2318aes-1764491.pdf)
+~!Height (1.12mm)
+~!3D_Model (SQ2318AES-T1_BE3)
+SQ2318AES-T1_BE3
+1.1!U 2.1!U 3.1!U 

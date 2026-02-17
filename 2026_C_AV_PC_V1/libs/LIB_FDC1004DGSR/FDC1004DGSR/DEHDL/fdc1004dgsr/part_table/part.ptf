@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDC1004DGSR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "FDC1004DGSR" (!) = "", "SOP50P490X110-10N", "Small Outline Packages", "595-FDC1004DGSR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/FDC1004DGSR?qs=zEQ6BYqA5vF%252BEdgfKNFEaA%3D%3D", "4 Channel Capacitance to Digital Converter for Capacitive Sensing (Cap Sensing) Solutions", "http://www.ti.com/lit/gpn/fdc1004", "1.1 mm"
+END_PART
+
+END.

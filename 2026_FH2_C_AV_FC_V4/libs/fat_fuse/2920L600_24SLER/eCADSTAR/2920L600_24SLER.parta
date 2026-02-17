@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_13632293"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-29-15:14:24)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "2920L600_24SLER")
+)
+
+
+(pinAssign "ECS_13632293"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-29-15:14:24)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13632293")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "2920L600_24SLER")
+)
+
+
+(part "2920L600_24SLER"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-09-29-15:14:24)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "2920L600_24SLER")
+    (pinAssignRef "ECS_13632293")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "Low Rho Surface Mount Resettable PTC Fuse")
+    (property "Mouser_Part_Number" "576-2920L600/24SLER")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/2920L600-24SLER?qs=7MVldsJ5Uaz%2FccYHZvZIZA%3D%3D")
+    (property "Manufacturer_Name" "LITTELFUSE")
+    (property "Manufacturer_Part_Number" "2920L600/24SLER")
+    (property "Datasheet_Link" "https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf")
+    (property "compAreaTopHeight" 1.2)
+)
+
+

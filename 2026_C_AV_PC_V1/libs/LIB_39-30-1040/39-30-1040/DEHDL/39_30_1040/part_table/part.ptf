@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '39_30_1040'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "39-30-1040" (!) = "", "39-30-104Y", "Other", "538-39-30-1040", "https://www.mouser.co.uk/ProductDetail/Molex/39-30-1040?qs=tRPrwvvr%2FugKtPXHFlZTbg%3D%3D", "Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0", "https://www.molex.com/pdm_docs/sd/039300020_sd.pdf", "10 mm"
+END_PART
+
+END.

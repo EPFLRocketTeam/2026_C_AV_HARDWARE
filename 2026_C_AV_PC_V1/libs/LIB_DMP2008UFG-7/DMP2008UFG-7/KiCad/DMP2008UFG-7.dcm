@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP2008UFG-7
+D Diodes Inc DMP2008UFG-7 P-channel MOSFET Transistor, 11 A, -20 V, 8-Pin POWERDI3333
+K
+F https://www.diodes.com//assets/Datasheets/DMP2008UFG.pdf
+$ENDCMP
+#
+#End Doc Library

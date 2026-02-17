@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP1610ARMZ_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP1610ARMZ-R7" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "584-ADP1610ARMZ-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP1610ARMZ-R7?qs=WIvQP4zGanjTQwiTj85NkQ%3D%3D", "Switching Voltage Regulators 1.2 MHz PWM Boost Switching Regulator", "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1610.pdf", "1.1 mm"
+END_PART
+
+END.

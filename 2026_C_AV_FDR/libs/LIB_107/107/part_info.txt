@@ -1,0 +1,9 @@
+Manufacturer=Keystone Electronics
+PartNumber=107
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-07-03 11:14:52
+Downloaded=2025-12-11 11:17:22
+3D=Y

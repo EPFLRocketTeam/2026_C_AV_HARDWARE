@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST3232BTR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=6.1
+Released=2015-04-13 16:53:26
+Downloaded=2025-12-04 21:22:45
+3D=Y

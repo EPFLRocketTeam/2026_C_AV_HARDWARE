@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=39-30-1040
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=6.1
+Released=2017-01-24 10:32:42
+Downloaded=2025-11-29 10:40:08
+3D=Y

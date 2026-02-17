@@ -1,0 +1,181 @@
+(footprint "SRP7030CA2R2M"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SRP7030CA-4R7M-1")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "6c348319-66fd-4728-9a35-f64ec338ddd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SRP7030CA2R2M"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a7711973-5f38-4a29-b2ac-b0092a55dd32")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6162483-0bd5-4529-9fe1-7247869c9195")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "780d020f-2b30-4d57-b895-da97b5022cfb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.9 0)
+		(end 3.9 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc005ba9-bba8-4f09-ad62-c9f944ef2781")
+	)
+	(fp_line
+		(start -4.9 -4.8)
+		(end 4.9 -4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f8015dff-518c-4a2b-8dd8-39a42b3f34f4")
+	)
+	(fp_line
+		(start -4.9 4.8)
+		(end -4.9 -4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fb84fab5-064d-4d59-bd02-c4325f20cc57")
+	)
+	(fp_line
+		(start 4.9 -4.8)
+		(end 4.9 4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7f581766-ccb6-44a0-9354-56dbb8f49ab8")
+	)
+	(fp_line
+		(start 4.9 4.8)
+		(end -4.9 4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "05a8aa8d-2fbb-4c67-9e0e-8c31c8136c7c")
+	)
+	(fp_line
+		(start -3.9 -3.8)
+		(end 3.9 -3.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "69d0592b-25b3-4a25-b470-589ea17cff55")
+	)
+	(fp_line
+		(start -3.9 3.8)
+		(end -3.9 -3.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "99d9a7e0-3e0a-4c0b-9eca-4aa4837b264d")
+	)
+	(fp_line
+		(start 3.9 -3.8)
+		(end 3.9 3.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b1b96ef2-1c77-4f7d-a141-9b80941ffbbe")
+	)
+	(fp_line
+		(start 3.9 3.8)
+		(end -3.9 3.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "568d846e-fda5-4ecd-ad0d-d2254d0ef944")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "2f430d9f-78ed-48d5-88a6-801141ff1f67")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 -2.55 90)
+		(size 2.3 7.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7e79ccfa-43dd-424f-b4d8-a2a4f950033f")
+	)
+	(pad "2" smd rect
+		(at 0 2.55 90)
+		(size 2.3 7.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "368c484d-625e-40d8-8a29-339bf7509bae")
+	)
+	(embedded_fonts no)
+	(model "SRP7030CA-4R7M.stp"
+		(offset
+			(xyz 0 0 0.1800000044)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

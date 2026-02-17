@@ -1,0 +1,107 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "53047-0210"
+   (description "Headers & Wire Housings VERTICAL HDR 2P")
+   (family "CON")
+   (package "530470210")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/53047-0210.pdf")
+   (attribute "Geometry.Height" "4.4mm")
+   (attribute "Mouser Part Number" "538-53047-0210")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/53047-0210?qs=M5Ic86%252BuP8b8FQrTwriyOw%3D%3D")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "53047-0210")
+   (gate
+    (symbol "53047-0210")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "53047-0210"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "530470210"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.75 1.15)
+      (pt 1.5 1.15)
+      (pt 1.5 -2.05)
+      (pt -2.75 -2.05)
+      (pt -2.75 1.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.75 1.15)
+      (pt 1.5 1.15)
+      (pt 1.5 -2.05)
+      (pt -2.75 -2.05)
+      (pt -2.75 1.15))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.75 2.15)
+      (pt 3.575 2.15)
+      (pt 3.575 -3.05)
+      (pt -3.75 -3.05)
+      (pt -3.75 2.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 2.375 0)
+      (arc (pt 2.375 0.000) (pt 2.375 -0.100) (pt 2.575 0.100) (start 180.0) (sweep 180.0))
+      (pt 2.575 0)
+      (arc (pt 2.575 0.000) (pt 2.375 -0.100) (pt 2.575 0.100) (start 180.0) (sweep .0))
+      (pt 2.375 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt -1.250 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.55)
+    (plated true)
+    (pad (layer TCOP) (round 1.000))
+    (pad (layer INNER) (round 1.000))
+    (pad (layer BCOP) (round 1.000))
+   )
+   (model "53047-0210.stp"
+    (euler 90 0 0)
+    (offset -0.6000000238418579 -0.44999998807907104 3.200000047683716)
+   )
+  )
+ )
+)

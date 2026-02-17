@@ -1,0 +1,16 @@
+.BSC093N04LSGATMA1 :1 ;INFINEON - BSC093N04LSGATMA1 - MOSFET, N CH, 49A, 40V, PG-TDSON-8
+BSC340N08NS3G
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN BSC093N04LSGATMA1
+~!Mouser Part Number (726-BSC093N04LSGATMA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC093N04LSGATMA1?qs=K00xGehIljvqz%2F%2Fk43Bdgg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (BSC093N04LSGATMA1)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-BSC093N04LSG-DS-v02_01-en.pdf?fileId=db3a30431689f4420116c44a1fa80822)
+~!Height (1mm)
+~!3D_Model (BSC093N04LSGATMA1)
+BSC093N04LSGATMA1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

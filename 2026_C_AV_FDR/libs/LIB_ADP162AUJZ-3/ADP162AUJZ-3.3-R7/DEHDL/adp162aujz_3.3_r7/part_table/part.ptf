@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP162AUJZ_3.3_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP162AUJZ-3.3-R7" (!) = "", "SOT95P280X100-5N", "SOT23 (5-Pin)", "584-ADP162AUJZ-3.3R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP162AUJZ-3.3-R7?qs=WIvQP4zGangHoc9MX39OnA%3D%3D", "LDO Voltage Regulators 150mA LDO 3.3Vout", "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP160_161_162_163.pdf", "1 mm"
+END_PART
+
+END.

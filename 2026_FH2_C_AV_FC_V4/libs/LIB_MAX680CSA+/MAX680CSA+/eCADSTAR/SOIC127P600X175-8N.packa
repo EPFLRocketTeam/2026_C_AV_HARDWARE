@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAX680CSA+"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-04-04:37:06)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

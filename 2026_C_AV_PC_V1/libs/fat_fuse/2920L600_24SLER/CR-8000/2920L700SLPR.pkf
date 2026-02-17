@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "2920L700SLPR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "2920L700SLPR")
+        (spec "default")
+    )
+)

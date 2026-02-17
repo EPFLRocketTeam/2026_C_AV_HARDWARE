@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=105314-2104
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2018-12-22 13:50:56
+Downloaded=2025-11-29 16:33:08
+3D=Y

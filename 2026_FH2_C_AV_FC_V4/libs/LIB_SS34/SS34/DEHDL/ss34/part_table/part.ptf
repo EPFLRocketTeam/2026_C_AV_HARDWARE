@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS34'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "IF", "IR", "RJA", "BV", "IPEAK";
+{========================================================================================}
+ "onsemi", "SS34" (!) = "", "DIOM8059X256N", "Diodes Moulded", "512-SS34", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/SS34?qs=2ONuHmP%2FXzb3ub11UdFfdQ%3D%3D", "Low-Forward Voltage Drop; Metal to Silicon Rectifiers, Majority Carrier Conduction; High-Surge Current Capability; Easy Pick and Place", "https://www.onsemi.com/pub/Collateral/SS39-D.PDF", "2.56 mm", "150", "", "", "2.27", "", "SCHOTTKY SMD", "DO-214AB", "3", "", "55", "40", "100"
+END_PART
+
+END.

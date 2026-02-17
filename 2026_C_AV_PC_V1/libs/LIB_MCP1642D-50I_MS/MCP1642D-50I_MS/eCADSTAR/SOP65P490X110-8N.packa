@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP1642D-50I_MS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-03-09:06:52)
+    (mountForm default
+        (footprintRef "SOP65P490X110-8N")
+        (spec "System")
+    )
+)

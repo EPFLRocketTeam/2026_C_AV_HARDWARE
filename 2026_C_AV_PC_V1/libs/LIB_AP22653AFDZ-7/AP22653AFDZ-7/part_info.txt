@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AP22653AFDZ-7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=5.1
+Released=2023-02-23 08:30:06
+Downloaded=2025-11-30 09:46:09
+3D=Y

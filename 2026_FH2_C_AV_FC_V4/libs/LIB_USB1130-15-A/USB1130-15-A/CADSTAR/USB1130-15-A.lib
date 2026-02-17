@@ -1,0 +1,16 @@
+.USB1130-15-A :1 ;USB Connectors USB A 2.0 Skt RA High Life 15u" T Hole W/Shell Stake T & R
+USB113015A
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="MH1" 6="MH2"
+*MXP 6
+*DFN USB1130-15-A
+~!Mouser Part Number (640-USB1130-15-A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/USB1130-15-A?qs=KUoIvG%2F9IlbUm2WMV7vmzg%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB1130-15-A)
+~!Link Datasheet (https://gct.co/files/drawings/usb1130.pdf?v=af75e0ab-3313-4c97-a925-9953a1c7de6b)
+~!Height (7.24mm)
+~!3D_Model (USB1130-15-A)
+USB1130-15-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

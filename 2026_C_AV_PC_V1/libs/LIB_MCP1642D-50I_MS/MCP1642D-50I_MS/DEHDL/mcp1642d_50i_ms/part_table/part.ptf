@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP1642D_50I_MS'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP1642D-50I/MS" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "579-MCP1642D-50I/MS", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP1642D-50I-MS?qs=kUzwwg2uGjVoXH8JFWZOdQ%3D%3D", "Switching Voltage Regulators Step-up DC/DC Reg 1 MHz, 1.6A, 5Vout", "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572899", "1.1 mm"
+END_PART
+
+END.

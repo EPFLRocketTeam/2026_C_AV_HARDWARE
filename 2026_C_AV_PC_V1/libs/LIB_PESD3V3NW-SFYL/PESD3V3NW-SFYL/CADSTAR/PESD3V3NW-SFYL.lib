@@ -1,0 +1,16 @@
+.PESD3V3NW-SFYL :1 ;PESD3V3NW-SF - Extremely low capacitance bidirectional ESD protection@en-us
+PMEG3005AESFYL
+*STM D
+*NGS
+*PLB 1="K1" 2="K2"
+*MXP 2
+*DFN PESD3V3NW-SFYL
+~!Mouser Part Number (771-PESD3V3NW-SFYL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3NW-SFYL?qs=P1JMDcb91o7V%252BTs8TRh1Ig%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PESD3V3NW-SFYL)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PESD3V3NW-SF.pdf)
+~!Height (-)
+~!3D_Model (PESD3V3NW-SFYL)
+PESD3V3NW-SFYL
+1.1!U 2.1!U 

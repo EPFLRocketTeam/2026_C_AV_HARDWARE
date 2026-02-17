@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=BSC093N04LSGATMA1
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=9
+Version=1.4
+Released=2023-11-24 17:00:57
+Downloaded=2025-11-29 17:02:14
+3D=Y

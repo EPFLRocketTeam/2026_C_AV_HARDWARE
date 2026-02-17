@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD3V3NW_SFYL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Nexperia", "PESD3V3NW-SFYL" (!) = "", "PMEG3005AESFYL", "Other", "771-PESD3V3NW-SFYL", "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3NW-SFYL?qs=P1JMDcb91o7V%252BTs8TRh1Ig%3D%3D", "PESD3V3NW-SF - Extremely low capacitance bidirectional ESD protection@en-us", "https://assets.nexperia.com/documents/data-sheet/PESD3V3NW-SF.pdf"
+END_PART
+
+END.

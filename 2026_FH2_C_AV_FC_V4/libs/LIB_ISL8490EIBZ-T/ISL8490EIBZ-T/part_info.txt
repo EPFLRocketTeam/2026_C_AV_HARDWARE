@@ -1,0 +1,9 @@
+Manufacturer=Renesas Electronics
+PartNumber=ISL8490EIBZ-T
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2020-01-06 12:07:34
+Downloaded=2025-05-10 09:53:43
+3D=Y

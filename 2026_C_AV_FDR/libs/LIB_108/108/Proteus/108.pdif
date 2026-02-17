@@ -1,0 +1,104 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "108"
+   (description "Cylindrical Battery Contacts, Clips, Holders & Springs Battery HOLDER PC 1/2 AA")
+   (family "ANA")
+   (package "108")
+   (attribute "Datasheet Link" "https://www.mouser.se/datasheet/2/215/108-745412.pdf")
+   (attribute "Mouser Part Number" "534-108")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/108?qs=Q3RoVmURDomBWyH0dBAK9w%3D%3D")
+   (attribute "Manufacturer_Name" "Keystone Electronics")
+   (attribute "Manufacturer_Part_Number" "108")
+   (gate
+    (symbol "108")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "108"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "108"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.54 8.13)
+      (pt 32 8.13)
+      (pt 32 -8.13)
+      (pt -2.54 -8.13)
+      (pt -2.54 8.13))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.04 8.815)
+      (pt 32.5 8.815)
+      (pt 32.5 -8.63)
+      (pt -3.04 -8.63)
+      (pt -3.04 8.815))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 2.03 8.13)
+      (pt 32 8.13)
+      (pt 32 -8.13)
+      (pt -2.54 -8.13)
+      (pt -2.54 8.13))))
+   (leg 1 (pt -0.000 0.000) (padstack 0))
+   (leg 2 (pt 29.460 0.000) (padstack 0))
+   (leg MH1 (pt -0.000 7.090) (padstack 3))
+   (padstack 0
+    (hole 1.26)
+    (plated true)
+    (pad (layer TCOP) (round 1.890))
+    (pad (layer INNER) (round 1.890))
+    (pad (layer BCOP) (round 1.890))
+   )
+   (padstack 3
+    (hole 2.45)
+    (plated false)
+    (pad (layer TCOP) (round 1.225))
+    (pad (layer INNER) (round 1.225))
+    (pad (layer BCOP) (round 1.225))
+   )
+   (model "108.stp"
+    (euler -90 180 180)
+    (offset 14.630000114440918 0.09000000357627869 0.3100000023841858)
+   )
+  )
+ )
+)

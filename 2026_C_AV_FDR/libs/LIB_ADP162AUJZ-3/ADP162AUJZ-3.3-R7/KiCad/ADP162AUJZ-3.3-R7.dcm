@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP162AUJZ-3.3-R7
+D LDO Voltage Regulators 150mA LDO 3.3Vout
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADP160_161_162_163.pdf
+$ENDCMP
+#
+#End Doc Library

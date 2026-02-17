@@ -1,0 +1,91 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SRP7030CA-4R7M"
+   (description "Fixed Inductors Ind,7.8x7.6x2.9mm,4.7uH 20%,9A,Shd,SMD")
+   (family "ANA")
+   (package "SRP7030CA2R2M")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/SRP7030CA-4R7M.pdf")
+   (attribute "Geometry.Height" "3.1mm")
+   (attribute "Mouser Part Number" "652-SRP7030CA-4R7M")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SRP7030CA-4R7M?qs=PzGy0jfpSMvKDOfDezgaiA%3D%3D")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "SRP7030CA-4R7M")
+   (gate
+    (symbol "SRP7030CA-4R7M")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "SRP7030CA-4R7M"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SRP7030CA2R2M"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.9 3.8)
+      (pt 3.9 3.8)
+      (pt 3.9 -3.8)
+      (pt -3.9 -3.8)
+      (pt -3.9 3.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.9 4.8)
+      (pt 4.9 4.8)
+      (pt 4.9 -4.8)
+      (pt -4.9 -4.8)
+      (pt -4.9 4.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.9 0)
+      (pt 3.9 0))))
+   (leg 1 (pt 0.000 2.550) (padstack 0))
+   (leg 2 (pt 0.000 -2.550) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.300 7.200 0 0 0.000))
+   )
+   (model "SRP7030CA-4R7M.stp"
+    (euler 0 0 -90)
+    (offset 0 0 0.18000000715255737)
+   )
+  )
+ )
+)

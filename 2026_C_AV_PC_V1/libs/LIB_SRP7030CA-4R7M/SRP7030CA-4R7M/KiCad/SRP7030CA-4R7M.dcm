@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP7030CA-4R7M
+D Fixed Inductors Ind,7.8x7.6x2.9mm,4.7uH 20%,9A,Shd,SMD
+K
+F https://componentsearchengine.com/Datasheets/1/SRP7030CA-4R7M.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BSC093N04LSGATMA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BSC093N04LSGATMA1" (!) = "", "BSC340N08NS3G", "Other", "726-BSC093N04LSGATMA", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC093N04LSGATMA1?qs=K00xGehIljvqz%2F%2Fk43Bdgg%3D%3D", "INFINEON - BSC093N04LSGATMA1 - MOSFET, N CH, 49A, 40V, PG-TDSON-8", "https://www.infineon.com/dgdl/Infineon-BSC093N04LSG-DS-v02_01-en.pdf?fileId=db3a30431689f4420116c44a1fa80822", "1 mm"
+END_PART
+
+END.

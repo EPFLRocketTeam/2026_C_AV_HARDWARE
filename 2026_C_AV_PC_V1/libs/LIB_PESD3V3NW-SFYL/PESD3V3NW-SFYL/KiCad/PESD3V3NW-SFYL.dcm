@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD3V3NW-SFYL
+D PESD3V3NW-SF - Extremely low capacitance bidirectional ESD protection@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD3V3NW-SF.pdf
+$ENDCMP
+#
+#End Doc Library

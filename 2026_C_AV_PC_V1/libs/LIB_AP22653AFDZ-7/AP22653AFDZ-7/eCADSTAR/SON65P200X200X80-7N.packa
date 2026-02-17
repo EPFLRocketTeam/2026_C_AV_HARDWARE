@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AP22653AFDZ-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-02-09:07:20)
+    (mountForm default
+        (footprintRef "SON65P200X200X80-7N")
+        (spec "System")
+    )
+)

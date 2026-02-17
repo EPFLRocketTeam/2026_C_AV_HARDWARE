@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FAN3227TMX'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "FAN3227TMX" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "512-FAN3227TMX", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FAN3227TMX?qs=ODlIKnK5hgdsmwIkcdhHGg%3D%3D", "Four Versions of Dual Independent Drivers: ; 3A Peak Sink/Source at VDD = 12V ; Dual Inverting + Enable (FAN3226) ; Typical Propagation Delay Under 20ns Matched within 1ns to the Other Channel ; 4.5 to 18V Operating Range ; 8-Lead 3x3mm MLP or 8-Lead SOIC Package ; Dual Non-Inverting + Enable (FAN3227) ; Dual-Inputs in Two Pin-Out Configurations:  Compatible with FAN3225x (FAN3228)  Compatible with TPS2814D (FAN3229) ; MillerDrive Technology ; 12ns / 9ns Typical Rise/Fall Times with 1nF Load ; Intern", "https://www.onsemi.com/pub/Collateral/FAN3229T-D.PDF", "1.75 mm"
+END_PART
+
+END.

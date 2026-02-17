@@ -1,0 +1,16 @@
+.LTC3878EGN_PBF :1 ;LINEAR TECHNOLOGY - LTC3878EGN#PBF - BUCK, SYNCH, 34.2V, 16SSOP
+SOP64P601X175-16N
+*STM IC
+*NGS
+*PLB 1="RUN/SS" 2="PGOOD" 3="VRNG" 4="FCB" 5="ITH" 6="SGND" 7="ION" 8="VFB" 9="NC" 10="VIN" 11="INTVCC" 12="BG" 13="PGND" 14="SW" 15="TG" 16="BOOST"
+*MXP 16
+*DFN LTC3878EGN_PBF
+~!Mouser Part Number (584-LTC3878EGN#PBF)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC3878EGN%23PBF)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LTC3878EGN#PBF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/LTC3878EGN#PBF.pdf)
+~!Height (1.75mm)
+~!3D_Model (LTC3878EGN#PBF)
+LTC3878EGN_PBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

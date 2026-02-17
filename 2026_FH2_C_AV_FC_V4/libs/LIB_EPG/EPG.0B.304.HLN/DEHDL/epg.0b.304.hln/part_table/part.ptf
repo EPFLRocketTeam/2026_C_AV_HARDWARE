@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EPG.0B.304.HLN'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LEMO", "EPG.0B.304.HLN" (!) = "", "EPG0B304HLN", "Other", "736-EPG0B304HLN", "https://www.mouser.co.uk/ProductDetail/LEMO/EPG.0B.304.HLN?qs=Py8BJuJ8NHuk1oBwrlohFA%3D%3D", "4 way size 0B PCB mount socket,7A Lemo 0B Series, 4 Pole Right Angle Through Hole Connector Socket, Shell Size 0, with Female Contacts", "https://web.lemo.com/img/resources/catalog/ROW/UK_English/unipole_multipole.pdf", "12.6 mm"
+END_PART
+
+END.

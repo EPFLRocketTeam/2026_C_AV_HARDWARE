@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CY15B116QN_40BKXI'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "CY15B116QN-40BKXI" (!) = "", "BGA24C100P5X5_600X800X120", "BGA", "727-CY15B116QN40BKXI", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/CY15B116QN-40BKXI?qs=vvQtp7zwQdPnw7xP166xGg%3D%3D", "CY15B116QN-40BKXI", "https://www.infineon.com/dgdl/Infineon-CY15B116QN-40BKXIE-DataSheet-v06_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0eea4dc6734b", "1.2 mm"
+END_PART
+
+END.

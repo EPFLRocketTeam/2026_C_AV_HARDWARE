@@ -1,0 +1,16 @@
+.EPG.0B.304.HLN :1 ;4 way size 0B PCB mount socket,7A Lemo 0B Series, 4 Pole Right Angle Through Hole Connector Socket, Shell Size 0, with Female Contacts
+EPG0B304HLN
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="GND_1" 6="GND_2" 7="GND_3" 8="GND_4"
+*MXP 8
+*DFN EPG.0B.304.HLN
+~!Mouser Part Number (736-EPG0B304HLN)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/LEMO/EPG.0B.304.HLN?qs=Py8BJuJ8NHuk1oBwrlohFA%3D%3D)
+~!Manufacturer_Name (LEMO)
+~!Manufacturer_Part_Number (EPG.0B.304.HLN)
+~!Link Datasheet (https://web.lemo.com/img/resources/catalog/ROW/UK_English/unipole_multipole.pdf)
+~!Height (12.6mm)
+~!3D_Model (EPG.0B.304.HLN)
+EPG.0B.304.HLN
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SHDRRA4W55P200_2X2_665X640X630P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SHDRRA4W55P200_2X2_665X640X630P")
+        (spec "default")
+    )
+)

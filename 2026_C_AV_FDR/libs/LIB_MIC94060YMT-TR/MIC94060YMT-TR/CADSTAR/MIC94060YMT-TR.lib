@@ -1,0 +1,16 @@
+.MIC94060YMT-TR :1 ;Power Switch ICs - Power Distribution Loadswitch w/level-shift
+SON50P160X120X60-5N-D
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="GND_1" 3="VIN" 4="EN" 5="GND_2"
+*MXP 5
+*DFN MIC94060YMT-TR
+~!Mouser Part Number (998-MIC94060YMTTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MIC94060YMT-TR?qs=Y3Q3JoKAO1SQS%2F%2FiEDCB1w%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MIC94060YMT-TR)
+~!Link Datasheet (http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580310)
+~!Height (0.6mm)
+~!3D_Model (MIC94060YMT-TR)
+MIC94060YMT-TR
+1.1!U 2.1!U 5.1!U 4.1!U 3.1!U 

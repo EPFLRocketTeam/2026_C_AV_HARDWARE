@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_349354"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-03-14-13:23:23)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "EEH-ZA1V680XP")
+)
+
+
+(pinAssign "ECS_349354"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-03-14-13:23:23)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_349354")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "EEH-ZA1V680XP")
+)
+
+
+(part "EEH-ZA1V680XP"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-03-14-13:23:23)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "EEH-ZA1V680XP")
+    (pinAssignRef "ECS_349354")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Aluminum Organic Polymer Capacitors 68uF 35volt AEC-Q200")
+    (property "Mouser_Part_Number" "667-EEH-ZA1V680XP")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EEH-ZA1V680XP?qs=7UCyOFMWVHavYMOgLABudw%3D%3D")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "EEH-ZA1V680XP")
+    (property "Datasheet_Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ABA0000C1221.pdf")
+    (property "compAreaTopHeight" 8.3)
+)
+
+

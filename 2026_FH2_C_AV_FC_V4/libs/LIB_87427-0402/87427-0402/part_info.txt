@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=87427-0402
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=7.1
+Released=2017-11-06 10:28:06
+Downloaded=2025-02-06 14:51:25
+3D=Y

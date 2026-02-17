@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AD-85F4CR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-05-10-07:28:57)
+    (mountForm default
+        (footprintRef "AD85F4CR")
+        (spec "System")
+    )
+)

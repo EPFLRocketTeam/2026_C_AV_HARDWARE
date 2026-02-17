@@ -1,0 +1,160 @@
+
+(EDIF
+  (rename &FAN3227TMX "FAN3227TMX")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 07 04 20 44 55)
+      (dataOrigin "2714/1515570/2.50/8/2/Integrated Circuit")
+      (program "SamacSys ECAD Model FAN3227TMX"
+        (version "5.1"))))
+  (library
+  (rename &FAN3227TMX "FAN3227TMX")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &FAN3227TMX "FAN3227TMX")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "IC")
+          (property (rename PACKAGENAME "PackageName") (string "FAN3227TMX"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "SOIC127P600X175-8N"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "512-FAN3227TMX"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FAN3227TMX?qs=ODlIKnK5hgdsmwIkcdhHGg%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "onsemi"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "FAN3227TMX"))
+          (property (rename &Description "Description") (string "Four Versions of Dual Independent Drivers: ; 3A Peak Sink/Source at VDD = 12V ; Dual Inverting + Enable (FAN3226) ; Typical Propagation Delay Under 20ns Matched within 1ns to the Other Channel ; 4.5 to 18V Operating Range ; 8-Lead 3x3mm MLP or 8-Lead SOIC Package ; Dual Non-Inverting + Enable (FAN3227) ; Dual-Inputs in Two Pin-Out Configurations:  Compatible with FAN3225x (FAN3228)  Compatible with TPS2814D (FAN3229) ; MillerDrive Technology ; 12ns / 9ns Typical Rise/Fall Times with 1nF Load ; Intern"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://www.onsemi.com/pub/Collateral/FAN3229T-D.PDF"))
+          (property (rename &Height "Height") (string "1.75 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "FAN3227TMX"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &ENA "ENA")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &INA "INA")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &GND "GND")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &INB "INB")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &OUTB "OUTB")
+            (designator "5")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &VDD "VDD")
+            (designator "6")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (port
+            (rename &OUTA "OUTA")
+            (designator "7")
+            (property (rename ORDER "Order") (string "6") (owner "OrCAD"))
+          )
+          (port
+            (rename &ENB "ENB")
+            (designator "8")
+            (property (rename ORDER "Order") (string "7") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &ENA (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &INA (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -200) (pt 0 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -200))))
+            )
+            (portImplementation
+              (name &GND (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -300) (pt 0 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -300))))
+            )
+            (portImplementation
+              (name &INB (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -400) (pt 0 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -400))))
+            )
+            (portImplementation
+              (name &ENB (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 700 -100) (pt 900 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -100))))
+            )
+            (portImplementation
+              (name &OUTA (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 700 -200) (pt 900 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -200))))
+            )
+            (portImplementation
+              (name &VDD (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 700 -300) (pt 900 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -300))))
+            )
+            (portImplementation
+              (name &OUTB (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 700 -400) (pt 900 -400))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -400))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 700 0)
+                  (pt 700 -500)
+                  (pt 0 -500)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 750 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 750 30))))
+          )
+        )
+      )
+    )
+  )
+)

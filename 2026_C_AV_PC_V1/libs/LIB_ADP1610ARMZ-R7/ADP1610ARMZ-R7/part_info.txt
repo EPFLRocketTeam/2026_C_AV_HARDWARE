@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADP1610ARMZ-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-09-21 08:29:20
+Downloaded=2025-11-29 13:34:31
+3D=Y

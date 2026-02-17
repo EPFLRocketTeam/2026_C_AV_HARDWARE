@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS2116DRLR
+PartCategory=Integrated Circuit
+PackageCategory=SO Transistor Flat Lead
+PinCount=8
+Version=1.1
+Released=2021-03-04 10:16:11
+Downloaded=2025-12-04 23:35:16
+3D=Y

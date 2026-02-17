@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LT3960EMSE#TRPBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LT3960EMSE#TRPBF" (!) = "", "SOP50P490X110-11N", "Small Outline Packages", "584-LT3960EMSE#TRPBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT3960EMSETRPBF?qs=T94vaHKWudSYrMnOgEOV%252BA%3D%3D", "n Protected from Overvoltage Line Faults to +/-40V n Up to 400kbps I2C Communications n 4V to 60V Power Supply Range with Internal 3.3V Regulator n 3.3V or 5V Bus Voltage n Extended Common Mode Range (+/-36V) n Current Limited Drivers with Thermal Shutdown n Power-Up/Down Glitch Free Driver Outputs n Low Current Shutdown Mode n Transmit Data Dominant Timeout Function n E- and J-Grades Available n Available in a 10-Lead MSOP Package n AEC-Q100 Qualified for Automotive Applications", "https://www.analog.com/LT3960/datasheet", "1.1 mm"
+END_PART
+
+END.

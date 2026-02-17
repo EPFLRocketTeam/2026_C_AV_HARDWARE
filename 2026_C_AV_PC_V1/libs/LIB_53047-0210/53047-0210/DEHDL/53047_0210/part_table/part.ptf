@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '53047_0210'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "53047-0210" (!) = "", "530470210", "Other", "538-53047-0210", "https://www.mouser.co.uk/ProductDetail/Molex/53047-0210?qs=M5Ic86%252BuP8b8FQrTwriyOw%3D%3D", "Headers & Wire Housings VERTICAL HDR 2P", "https://componentsearchengine.com/Datasheets/2/53047-0210.pdf", "4.4 mm"
+END_PART
+
+END.

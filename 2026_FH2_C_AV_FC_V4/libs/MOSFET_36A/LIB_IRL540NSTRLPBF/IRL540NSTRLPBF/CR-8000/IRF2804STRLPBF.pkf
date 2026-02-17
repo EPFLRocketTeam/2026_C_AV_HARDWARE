@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "IRF2804STRLPBF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "IRF2804STRLPBF")
+        (spec "default")
+    )
+)

@@ -1,0 +1,16 @@
+.FDC1004DGSR :1 ;4 Channel Capacitance to Digital Converter for Capacitive Sensing (Cap Sensing) Solutions
+SOP50P490X110-10N
+*STM IC
+*NGS
+*PLB 1="SHLD1" 2="CIN1" 3="CIN2" 4="CIN3" 5="CIN4" 6="SHLD2" 7="GND" 8="VDD" 9="SCL" 10="SDA"
+*MXP 10
+*DFN FDC1004DGSR
+~!Mouser Part Number (595-FDC1004DGSR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/FDC1004DGSR?qs=zEQ6BYqA5vF%252BEdgfKNFEaA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (FDC1004DGSR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/fdc1004)
+~!Height (1.1mm)
+~!3D_Model (FDC1004DGSR)
+FDC1004DGSR
+1.1!I 2.1!I 3.1!I 4.1!I 5.1!I 10.1!U 9.1!I 8.1!P 7.1!G 6.1!I 

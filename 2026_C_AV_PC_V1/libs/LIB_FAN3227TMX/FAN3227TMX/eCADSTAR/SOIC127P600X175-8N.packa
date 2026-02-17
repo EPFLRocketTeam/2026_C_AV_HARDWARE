@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FAN3227TMX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-27-03:28:36)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

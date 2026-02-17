@@ -1,0 +1,112 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2920L600_24SLER"
+   (description "Low Rho Surface Mount Resettable PTC Fuse")
+   (family "ANA")
+   (package "2920L700SLPR")
+   (attribute "Datasheet Link" "https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf")
+   (attribute "Geometry.Height" "1.2mm")
+   (attribute "Mouser Part Number" "576-2920L600/24SLER")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/2920L600-24SLER?qs=7MVldsJ5Uaz%2FccYHZvZIZA%3D%3D")
+   (attribute "Manufacturer_Name" "LITTELFUSE")
+   (attribute "Manufacturer_Part_Number" "2920L600/24SLER")
+   (gate
+    (symbol "2920L600_24SLER")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "2920L600_24SLER"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 220 -80) (pt 280 -80) (pt 420 80) (pt 480 80))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "2920L700SLPR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.678 2.56)
+      (pt 3.678 2.56)
+      (pt 3.678 -2.56)
+      (pt -3.678 -2.56)
+      (pt -3.678 2.56))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.3 3.65)
+      (pt 5.3 3.65)
+      (pt 5.3 -3.65)
+      (pt -5.3 -3.65)
+      (pt -5.3 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 2.56)
+      (pt 2 2.56))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 -2.56)
+      (pt 2 -2.56))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -4.8 0.1)
+      (arc (pt -4.800 0.100) (pt -4.900 -0.100) (pt -4.700 0.100) (start 180.0) (sweep 90.0))
+      (pt -4.8 -0.1)
+      (arc (pt -4.800 -0.100) (pt -4.900 -0.100) (pt -4.700 0.100) (start 180.0) (sweep -90.0))
+      (pt -4.8 0.1))))
+   (leg 1 (pt -3.300 0.000) (padstack 0))
+   (leg 2 (pt 3.300 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.000 5.300 0 0 90.000))
+   )
+   (model "2920L600_24SLER.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

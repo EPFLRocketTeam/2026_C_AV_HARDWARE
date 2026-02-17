@@ -1,0 +1,9 @@
+Manufacturer=Kingbright
+PartNumber=APTF1616LSEKJ3ZGKQBC
+PartCategory=LED
+PackageCategory=Other
+PinCount=4
+Version=1.6
+Released=2019-06-30 23:05:54
+Downloaded=2025-07-29 17:23:54
+3D=Y

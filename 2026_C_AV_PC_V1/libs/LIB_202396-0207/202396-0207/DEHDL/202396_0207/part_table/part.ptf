@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '202396_0207'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "202396-0207" (!) = "", "2023960207", "Other", "538-202396-0207", "https://www.mouser.co.uk/ProductDetail/Molex/202396-0207?qs=5aG0NVq1C4yNVNVdbFIdrw%3D%3D", "Headers & Wire Housings 1mm PicoClasp SMT SR 2CKT RA HDR GLD PTL", "https://www.molex.com/pdm_docs/sd/2023960207_sd.pdf", "3.4 mm"
+END_PART
+
+END.

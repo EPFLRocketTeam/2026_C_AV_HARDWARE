@@ -1,0 +1,341 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "539ca47f-54ee-41fd-ac04-9223d6927600")
+	(paper "A4")
+	(title_block
+		(title "PROMETHEUS")
+		(date "2025-11-19")
+		(company "EPFL Rocket Team")
+		(comment 1 "Julian Ruiz Rodriguez")
+		(comment 2 "Propulsion Regulation for Optimal Motor Engine Thrust, High-accuracy Electronic Utility System")
+	)
+	(lib_symbols)
+	(text "Project Architecture"
+		(exclude_from_sim no)
+		(at 19.05 26.67 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5 5)
+				(bold yes)
+				(color 53 60 207 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7f4d1c4-d845-46fc-9f7d-e03b36ddf932")
+	)
+	(wire
+		(pts
+			(xy 96.52 106.68) (xy 124.46 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87d7128c-3608-455f-9d05-f510fb711e31")
+	)
+	(wire
+		(pts
+			(xy 96.52 104.14) (xy 124.46 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a80805a2-3360-4887-ab26-afd8d87a8bbf")
+	)
+	(sheet
+		(at 186.055 78.105)
+		(size 32.385 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b83d526-bc5b-4182-9a6e-c6ae79c02faa")
+		(property "Sheetname" "ICM-45686"
+			(at 186.055 77.3934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BMI088.kicad_sch"
+			(at 186.055 92.6596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_FH2_C_AV_FC"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 130.81)
+		(size 36.195 17.145)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1450b738-9e29-400a-a000-5f180e0cf8f6")
+		(property "Sheetname" "GNSS MAX-M10S"
+			(at 189.23 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 189.23 148.5396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_FH2_C_AV_FC"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 52.07)
+		(size 44.45 82.55)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "644dcd31-6af6-4f6c-8b25-e3ddc12cd0b6")
+		(property "Sheetname" "STM32"
+			(at 124.46 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32.kicad_sch"
+			(at 124.46 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FDCAN_RX" bidirectional
+			(at 124.46 104.14 180)
+			(uuid "75b4cff4-a9d9-4020-ab2a-557d4bb846d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FDCAN_TX" bidirectional
+			(at 124.46 106.68 180)
+			(uuid "71b49020-0803-4ee7-a6ae-b4af029bba0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "2026_FH2_C_AV_FC"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 106.68)
+		(size 36.83 15.875)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "759722eb-53e1-442f-a0ec-8a3cca8747a8")
+		(property "Sheetname" "ADXL375_and_TMP1075N"
+			(at 185.42 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADXL375_and_TMP1075N.kicad_sch"
+			(at 185.42 123.1396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_FH2_C_AV_FC"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 50.8)
+		(size 31.75 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c18b161d-f5b0-4476-a40d-c66f89361db3")
+		(property "Sheetname" "BMP390"
+			(at 64.77 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors.kicad_sch"
+			(at 64.77 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2026_FH2_C_AV_FC"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 100.33)
+		(size 31.75 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e44559ca-d1a9-4a30-8377-e4018157cd1e")
+		(property "Sheetname" "Spine&power"
+			(at 64.77 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Spine_power.kicad_sch"
+			(at 64.77 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CANRX" bidirectional
+			(at 96.52 104.14 0)
+			(uuid "7b931d49-ecb2-4ddc-8615-d1d24a1f6e9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CANTX" bidirectional
+			(at 96.52 106.68 0)
+			(uuid "00ddd984-5757-4d0d-af9d-76a8c5694dac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "2026_FH2_C_AV_FC"
+				(path "/53a77f7c-61ec-4227-bc8b-595d03316b48/295dbe6a-fd29-4ee8-93ce-3881271e8549"
+					(page "5")
+				)
+			)
+		)
+	)
+)

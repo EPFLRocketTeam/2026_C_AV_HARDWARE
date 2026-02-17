@@ -1,0 +1,16 @@
+.ADP1610ARMZ-R7 :1 ;Switching Voltage Regulators 1.2 MHz PWM Boost Switching Regulator
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="COMP" 2="FB" 3="'SD'" 4="GND" 5="SW" 6="IN" 7="RT" 8="SS"
+*MXP 8
+*DFN ADP1610ARMZ-R7
+~!Mouser Part Number (584-ADP1610ARMZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP1610ARMZ-R7?qs=WIvQP4zGanjTQwiTj85NkQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADP1610ARMZ-R7)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/ADP1610.pdf)
+~!Height (1.1mm)
+~!3D_Model (ADP1610ARMZ-R7)
+ADP1610ARMZ-R7
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,16 @@
+.MAX680CSA-plus- :1 ;Charge Pump INV/STPUP  10V 10mA
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="C1-" 2="C2+" 3="C2-" 4="V-" 5="GND" 6="VCC" 7="C1+" 8="V+"
+*MXP 8
+*DFN MAX680CSA-plus-
+~!Mouser Part Number (700-MAX680CSA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX680CSA%2b?qs=1THa7WoU59GmJru%252B3pd8uQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX680CSA+)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-340121.pdf)
+~!Height (1.75mm)
+~!3D_Model (MAX680CSA+)
+MAX680CSA-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

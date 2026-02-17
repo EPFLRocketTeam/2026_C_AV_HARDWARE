@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_760082"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-06-27-13:09:14)
+    (utime 2025-01-03-15:31:59)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LQH3NPN4R7MMEL")
+)
+
+
+(pinAssign "ECS_760082"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-06-27-13:09:14)
+    (utime 2025-01-03-15:31:59)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_760082")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LQH3NPN4R7MMEL")
+)
+
+
+(part "LQH3NPN4R7MMEL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-06-27-13:09:14)
+    (utime 2025-01-03-15:31:59)
+    (packageRef "LQH3NPN4R7MMEL")
+    (pinAssignRef "ECS_760082")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "LQH3NPN_ME Series Inductor 4.7uH +/-20% 1212 (3030)")
+    (property "Mouser_Part_Number" "81-LQH3NPN4R7MMEL")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH3NPN4R7MMEL?qs=sJ5gq5MLFXqkg2Q4z1mYdA%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "LQH3NPN4R7MMEL")
+    (property "Datasheet_Link" "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0153.pdf")
+    (property "compAreaTopHeight" 1.5)
+)
+
+

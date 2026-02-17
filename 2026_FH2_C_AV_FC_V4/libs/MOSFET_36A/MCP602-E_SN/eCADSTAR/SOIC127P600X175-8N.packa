@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP602-E_SN"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-28-07:32:22)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

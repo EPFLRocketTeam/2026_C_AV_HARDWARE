@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LTC3878EGN#PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LTC3878EGN#PBF" (!) = "", "SOP64P601X175-16N", "Small Outline Packages", "584-LTC3878EGN#PBF", "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC3878EGN%23PBF", "LINEAR TECHNOLOGY - LTC3878EGN#PBF - BUCK, SYNCH, 34.2V, 16SSOP", "https://componentsearchengine.com/Datasheets/1/LTC3878EGN#PBF.pdf", "1.75 mm"
+END_PART
+
+END.

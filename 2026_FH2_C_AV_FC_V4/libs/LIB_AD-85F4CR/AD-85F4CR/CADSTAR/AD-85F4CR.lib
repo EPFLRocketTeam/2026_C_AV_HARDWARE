@@ -1,0 +1,16 @@
+.AD-85F4CR :1 ;Piezo Buzzers & Audio Indicators EM Buzzer 2730Hz 3.6VAC, 87dBA
+AD85F4CR
+*STM LS
+*NGS
+*PLB 1="+" 2="-" 3="DUMMY"
+*MXP 3
+*DFN AD-85F4CR
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (AATC)
+~!Manufacturer_Part_Number (AD-85F4CR)
+~!Link Datasheet (https://www.aatc.tw/images/pdf/202005089c959.pdf)
+~!Height (4.5mm)
+~!3D_Model (AD-85F4CR)
+AD-85F4CR
+1.1!U 2.1!U 3.1!U 

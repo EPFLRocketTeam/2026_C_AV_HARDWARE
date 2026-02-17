@@ -1,0 +1,168 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EPG.0B.304.HLN"
+   (description "4 way size 0B PCB mount socket,7A Lemo 0B Series, 4 Pole Right Angle Through Hole Connector Socket, Shell Size 0, with Female Contacts")
+   (family "CON")
+   (package "EPG0B304HLN")
+   (attribute "Datasheet Link" "https://web.lemo.com/img/resources/catalog/ROW/UK_English/unipole_multipole.pdf")
+   (attribute "Geometry.Height" "12.6mm")
+   (attribute "Mouser Part Number" "736-EPG0B304HLN")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/LEMO/EPG.0B.304.HLN?qs=Py8BJuJ8NHuk1oBwrlohFA%3D%3D")
+   (attribute "Manufacturer_Name" "LEMO")
+   (attribute "Manufacturer_Part_Number" "EPG.0B.304.HLN")
+   (gate
+    (symbol "EPG.0B.304.HLN")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "GND_1" 5 PS)
+    (pin "GND_2" 6 PS)
+    (pin "GND_3" 7 PS)
+    (pin "GND_4" 8 PS)
+   )
+  )
+  (symbol "EPG.0B.304.HLN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EPG0B304HLN"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.32 -4.58)
+      (pt 7.98 -4.58)
+      (pt 7.98 7.12)
+      (pt -5.32 7.12)
+      (pt -5.32 -4.58))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5.32 7.12)
+      (pt 7.98 7.12)
+      (pt 7.98 -4.58)
+      (pt -5.32 -4.58)
+      (pt -5.32 7.12))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.32 8.12)
+      (pt 20.68 8.12)
+      (pt 20.68 -5.58)
+      (pt -6.32 -5.58)
+      (pt -6.32 8.12))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 7.98 5.77)
+      (pt 19.68 5.77)
+      (pt 19.68 -3.23)
+      (pt 7.98 -3.23))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 7.98 5.77)
+      (pt 19.68 5.77)
+      (pt 19.68 -3.23)
+      (pt 7.98 -3.23))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.8 0)
+      (arc (pt -5.800 0.000) (pt -5.900 -0.050) (pt -5.800 0.050) (start 180.0) (sweep .0))
+      (pt -5.9 0)
+      (arc (pt -5.900 0.000) (pt -5.900 -0.050) (pt -5.800 0.050) (start 180.0) (sweep -180.0))
+      (pt -5.8 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 3 (pt 2.540 2.540) (padstack 0))
+   (leg 4 (pt 0.000 2.540) (padstack 0))
+   (leg 5 (pt -2.540 -2.540) (padstack 0))
+   (leg 6 (pt 5.080 -2.540) (padstack 0))
+   (leg 7 (pt 5.080 5.080) (padstack 0))
+   (leg 8 (pt -2.540 5.080) (padstack 0))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 1
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (square 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (square 1.300))
+   )
+   (model "EPG.0B.304.HLN.stp"
+    (euler 90 0 0)
+    (offset 19.68000030517578 1.2699999809265137 6.710000038146973)
+   )
+  )
+ )
+)

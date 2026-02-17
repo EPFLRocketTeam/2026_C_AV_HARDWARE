@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CY15B116QN-40BKXI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-30-16:40:22)
+    (mountForm default
+        (footprintRef "BGA24C100P5X5_600X800X120")
+        (spec "System")
+    )
+)

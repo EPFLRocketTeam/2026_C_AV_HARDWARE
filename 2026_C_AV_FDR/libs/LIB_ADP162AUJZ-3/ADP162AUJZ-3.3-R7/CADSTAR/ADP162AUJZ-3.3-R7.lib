@@ -1,0 +1,16 @@
+.ADP162AUJZ-3.3-R7 :1 ;LDO Voltage Regulators 150mA LDO 3.3Vout
+SOT95P280X100-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="NC" 5="VOUT"
+*MXP 5
+*DFN ADP162AUJZ-3.3-R7
+~!Mouser Part Number (584-ADP162AUJZ-3.3R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP162AUJZ-3.3-R7?qs=WIvQP4zGangHoc9MX39OnA%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADP162AUJZ-3.3-R7)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/ADP160_161_162_163.pdf)
+~!Height (1mm)
+~!3D_Model (ADP162AUJZ-3.3-R7)
+ADP162AUJZ-3.3-R7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

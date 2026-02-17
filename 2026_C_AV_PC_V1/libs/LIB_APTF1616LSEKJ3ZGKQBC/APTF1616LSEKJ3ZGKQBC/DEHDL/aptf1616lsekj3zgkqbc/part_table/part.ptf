@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'APTF1616LSEKJ3ZGKQBC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "APTF1616LSEKJ3ZGKQBC" (!) = "", "APTF1616LSEKJ3ZGKQBC", "Other", "604-APTF1616LSEKJ3ZG", "https://www.mouser.co.uk/ProductDetail/Kingbright/APTF1616LSEKJ3ZGKQBC?qs=ZqXcJfGlKsilY2K6EwZ11Q%3D%3D", "Red, Green, Blue (RGB) 625nm Red, 525nm Green, 465nm Blue LED Indication - Discrete 1.8V Red, 2.7V Green, 2.7V Blue 0606 (1616 Metric)", "https://componentsearchengine.com/Datasheets/1/APTF1616LSEKJ3ZGKQBC.pdf", "0.7 mm"
+END_PART
+
+END.

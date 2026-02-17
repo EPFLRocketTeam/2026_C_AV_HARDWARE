@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS25221DRVR
+D Precision Adjustable Current-Limited Power-Distribution Switches
+K
+F http://www.ti.com/lit/gpn/TPS25221
+$ENDCMP
+#
+#End Doc Library

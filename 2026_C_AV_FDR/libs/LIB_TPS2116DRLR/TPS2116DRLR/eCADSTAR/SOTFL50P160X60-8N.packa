@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS2116DRLR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-02-17-08:53:35)
+    (mountForm default
+        (footprintRef "SOTFL50P160X60-8N")
+        (spec "System")
+    )
+)

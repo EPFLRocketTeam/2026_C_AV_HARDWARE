@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DMP2008UFG_7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "DMP2008UFG-7" (!) = "", "DMTH8008LFGQ7", "Other", "621-DMP2008UFG-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP2008UFG-7?qs=wo71MgyKIyHArDy7nW0BNA%3D%3D", "Diodes Inc DMP2008UFG-7 P-channel MOSFET Transistor, 11 A, -20 V, 8-Pin POWERDI3333", "https://www.diodes.com//assets/Datasheets/DMP2008UFG.pdf", "0.8 mm"
+END_PART
+
+END.

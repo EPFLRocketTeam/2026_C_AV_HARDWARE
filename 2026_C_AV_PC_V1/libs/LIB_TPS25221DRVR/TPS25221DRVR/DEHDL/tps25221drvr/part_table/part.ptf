@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS25221DRVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS25221DRVR" (!) = "", "SON65P200X200X80-7N", "Small Outline No-lead", "595-TPS25221DRVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS25221DRVR?qs=y6ZabgHbY%252BwMfKdJX5xA9w%3D%3D", "Precision Adjustable Current-Limited Power-Distribution Switches", "http://www.ti.com/lit/gpn/TPS25221", "0.8 mm"
+END_PART
+
+END.

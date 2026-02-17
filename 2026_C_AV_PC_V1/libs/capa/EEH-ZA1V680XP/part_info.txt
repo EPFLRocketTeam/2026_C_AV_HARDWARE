@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEH-ZA1V680XP
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=5.3
+Released=2018-03-14 13:23:23
+Downloaded=2025-02-06 20:50:11
+3D=Y

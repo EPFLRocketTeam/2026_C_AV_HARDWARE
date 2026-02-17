@@ -1,0 +1,16 @@
+.87427-0402 :1 ;Mini-Fit Jr. Header, 4.20mm Pitch, Right-Angle, without Flange, 4 Circuits
+"87427-04YY_347202"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 87427-0402
+~!Mouser Part Number (538-87427-0402)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/87427-0402?qs=BpFtYU5tmpvCqnqQ9%2FJ56w%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (87427-0402)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/874270202_sd.pdf)
+~!Height (11.4mm)
+~!3D_Model (87427-0402)
+"87427-0402"
+1.1!U 2.1!U 3.1!U 4.1!U 

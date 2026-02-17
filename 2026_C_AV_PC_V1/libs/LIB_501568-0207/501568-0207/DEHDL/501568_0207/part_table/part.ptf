@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '501568_0207'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "501568-0207" (!) = "", "5015680207", "Other", "538-501568-0207", "https://www.mouser.co.uk/ProductDetail/Molex/501568-0207?qs=uEWtSLL707WbFjnit2JOEg%3D%3D", "Molex PICO-CLASP Series, Series Number 501568, 1mm Pitch 2 Way 2 Row Right Angle PCB Header, Solder Termination, 1A", "https://www.molex.com/pdm_docs/sd/5015680207_sd.pdf", "3.4 mm"
+END_PART
+
+END.

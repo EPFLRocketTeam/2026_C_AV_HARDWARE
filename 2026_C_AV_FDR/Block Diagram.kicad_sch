@@ -1,0 +1,49 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5103b744-f30a-42b1-b987-3d4be6264b7d")
+	(paper "A3")
+	(title_block
+		(title "PROMETHEUS")
+		(date "2025-11-19")
+		(company "EPFL Rocket Team")
+		(comment 1 "Julian Ruiz Rodriguez")
+		(comment 2 "Propulsion Regulation for Optimal Motor Engine Thrust, High-accuracy Electronic Utility System")
+	)
+	(lib_symbols)
+	(text "Block Diagram"
+		(exclude_from_sim no)
+		(at 19.05 25.4 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5 5)
+				(bold yes)
+				(color 53 60 207 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa2ff0f8-328f-4bbe-bb2b-12f61c12e51b")
+	)
+	(text_box "Diagram"
+		(exclude_from_sim no)
+		(at 34.29 35.56 0)
+		(size 231.14 119.38)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.635)
+			)
+		)
+		(uuid "838f7d56-0a59-4e64-b357-85dfc9eddbaa")
+	)
+)

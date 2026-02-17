@@ -1,0 +1,9 @@
+Manufacturer=RENATA
+PartNumber=SMTU2032-LF
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2018-07-10 09:04:10
+Downloaded=2025-12-04 17:33:40
+3D=Y

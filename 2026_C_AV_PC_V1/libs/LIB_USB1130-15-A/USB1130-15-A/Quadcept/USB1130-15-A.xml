@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/13854805/1515570/2.50/6/3/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c143.1_h92" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="36.220472440944">
+    <padshape layer="TOP" shape="round" width="56.338582677165" height="56.338582677165" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="64.212598425196" height="64.212598425196" />
+    <padshape layer="INNER" shape="round" width="56.338582677165" height="56.338582677165" />
+    <padshape layer="BOTTOM" shape="round" width="56.338582677165" height="56.338582677165" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="64.212598425196" height="64.212598425196" />
+  </padstyle>
+  <padstyle name="s143.1_h92" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="36.220472440944">
+    <padshape layer="TOP" shape="square" width="56.338582677165" height="56.338582677165" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="64.212598425196" height="64.212598425196" />
+    <padshape layer="INNER" shape="square" width="56.338582677165" height="56.338582677165" />
+    <padshape layer="BOTTOM" shape="square" width="56.338582677165" height="56.338582677165" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="square" width="64.212598425196" height="64.212598425196" />
+  </padstyle>
+  <padstyle name="c339_h226" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="88.976377952755">
+    <padshape layer="TOP" shape="round" width="133.46456692913" height="133.46456692913" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="141.33858267716" height="141.33858267716" />
+    <padshape layer="INNER" shape="round" width="133.46456692913" height="133.46456692913" />
+    <padshape layer="BOTTOM" shape="round" width="133.46456692913" height="133.46456692913" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="141.33858267716" height="141.33858267716" />
+  </padstyle>
+  <footprint name="USB113015A" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="s143.1_h92" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c143.1_h92" originx="98.425196850392" originy="0" rotation="90" />
+    <pcbpin number="3" name="3" style="c143.1_h92" originx="177.16535433071" originy="0" rotation="90" />
+    <pcbpin number="4" name="4" style="c143.1_h92" originx="275.5905511811" originy="0" rotation="90" />
+    <pcbpin number="5" name="5" style="c339_h226" originx="-120.86614173228" originy="-106.69291338583" rotation="90" />
+    <pcbpin number="6" name="6" style="c339_h226" originx="396.45669291338" originy="-106.69291338583" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-133.85826771653" originy="46.062992125984" endx="409.44881889763" endy="46.062992125984" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="409.44881889763" originy="46.062992125984" endx="409.44881889763" endy="-511.41732283464" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="409.44881889763" originy="-511.41732283464" endx="-133.85826771653" endy="-511.41732283464" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-133.85826771653" originy="-511.41732283464" endx="-133.85826771653" endy="46.062992125984" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-226.96850393701" originy="85.433070866141" endx="502.5590551181" endy="85.433070866141" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="502.5590551181" originy="85.433070866141" endx="502.5590551181" endy="-550.7874015748" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="502.5590551181" originy="-550.7874015748" endx="-226.96850393701" endy="-550.7874015748" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-226.96850393701" originy="-550.7874015748" endx="-226.96850393701" endy="85.433070866141" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-133.85826771653" originy="-200.7874015748" endx="-133.85826771653" endy="-511.41732283464" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-133.85826771653" originy="-511.41732283464" endx="409.44881889763" endy="-511.41732283464" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="409.44881889763" originy="-511.41732283464" endx="409.44881889763" endy="-200.7874015748" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="70.866141732283" endx="0" endy="70.866141732283" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.6391087961985E-15" originy="68.897637795275" startangle="90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="66.929133858267" endx="0" endy="66.929133858267" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.6391087961985E-15" originy="68.897637795275" startangle="-90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-133.85826771653" originy="-11.811023622047" endx="-133.85826771653" endy="46.062992125984" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-133.85826771653" originy="46.062992125984" endx="409.44881889763" endy="46.062992125984" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="409.44881889763" originy="46.062992125984" endx="409.44881889763" endy="-11.811023622047" width="7.8740157480314" />
+  </footprint>
+  <symbol name="USB1130-15-A" originx="0" originy="0">
+    <line originx="200" originy="100" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-400" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-400" endx="200" endy="-400" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-400" width="0" />
+    <sympin number="1" originx="700" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="760" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="700" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="760" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="700" originy="-200" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-200" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="3" />
+      <text name="pindes" originx="760" originy="-180" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="700" originy="-300" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-300" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="4" />
+      <text name="pindes" originx="760" originy="-280" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="4" />
+    </sympin>
+    <sympin number="5" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MH1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="5" />
+    </sympin>
+    <sympin number="6" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MH2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="6" />
+    </sympin>
+  </symbol>
+  <component name="USB1130-15-A" designatorprefix="J" height="285.03937007874" footprint="USB113015A">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="4" />
+    <comppin designator="5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MH1" />
+    <comppin designator="6" sympin="6" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MH2" />
+    <attached_symbol gate="1" name="USB1130-15-A" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <pinmap designator="5" footprintpin="5" />
+    <pinmap designator="6" footprintpin="6" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://gct.co/files/drawings/usb1130.pdf?v=af75e0ab-3313-4c97-a925-9953a1c7de6b" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="USB Connectors USB A 2.0 Skt RA High Life 15u&quot; T Hole W/Shell Stake T &amp; R" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="640-USB1130-15-A" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/GCT/USB1130-15-A?qs=KUoIvG%2F9IlbUm2WMV7vmzg%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="GCT (GLOBAL CONNECTOR TECHNOLOGY)" />
+    <text name="Manufacturer_Part_Number" originx="750" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="USB1130-15-A" />
+  </component>
+</quadcept_library>

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3960EMSE#TRPBF
+D n Protected from Overvoltage Line Faults to +/-40V n Up to 400kbps I2C Communications n 4V to 60V Power Supply Range with Internal 3.3V Regulator n 3.3V or 5V Bus Voltage n Extended Common Mode Range (+/-36V) n Current Limited Drivers with Thermal Shutdown n Power-Up/Down Glitch Free Driver Outputs n Low Current Shutdown Mode n Transmit Data Dominant Timeout Function n E- and J-Grades Available n Available in a 10-Lead MSOP Package n AEC-Q100 Qualified for Automotive Applications
+K
+F https://www.analog.com/LT3960/datasheet
+$ENDCMP
+#
+#End Doc Library

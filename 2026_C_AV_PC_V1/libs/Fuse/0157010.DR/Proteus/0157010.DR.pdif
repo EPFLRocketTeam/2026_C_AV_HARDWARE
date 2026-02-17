@@ -1,0 +1,101 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "0157010.DR"
+   (description "Littelfuse 10A FF Non-Resettable Surface Mount Fuse, 125V")
+   (family "FUS")
+   (package "0157010DR")
+   (attribute "Datasheet Link" "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf")
+   (attribute "Mouser Part Number" "576-0157010.DR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/0157010.DR?qs=n5MbhIql%252BRk%252BdkayiTTIMg%3D%3D")
+   (attribute "Manufacturer_Name" "LITTELFUSE")
+   (attribute "Manufacturer_Part_Number" "0157010.DR")
+   (gate
+    (symbol "0157010.DR")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "0157010.DR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 500 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "0157010DR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.25 1.85)
+      (pt 3.25 1.85)
+      (pt 3.25 -1.85)
+      (pt -3.25 -1.85)
+      (pt -3.25 1.85))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.13 2.35)
+      (pt 4.13 2.35)
+      (pt 4.13 -2.35)
+      (pt -4.13 -2.35)
+      (pt -4.13 2.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.25 1.85)
+      (pt 3.2 1.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.25 -1.85)
+      (pt 3.25 -1.85))))
+   (leg 1 (pt -2.430 0.000) (padstack 0))
+   (leg 2 (pt 2.430 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.400 3.000 0 0 90.000))
+   )
+   (model "0157010.DR.stp"
+    (euler 90 0 0)
+    (offset 0 0 2.3499999046325684)
+   )
+  )
+ )
+)

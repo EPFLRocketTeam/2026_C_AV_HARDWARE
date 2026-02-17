@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ISL8490EIBZ-T
+#/5492259/1515570/2.50/8/2/Integrated Circuit
+DEF ISL8490EIBZ-T IC 0 30 Y Y 1 F N
+F0 "IC" 750 300 50 H V L CNN
+F1 "ISL8490EIBZ-T" 750 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 750 100 50 H I L CNN
+F3 "https://www.renesas.com/en-us/www/doc/datasheet/isl8488e-89e-90e-91e.pdf" 750 0 50 H I L CNN
+F4 "The ISL8488E, ISL8489E, ISL8490E, ISL8491E devices are ESD protected, BiCMOS, 5V powered, single transceivers that meet both the RS-485 and RS-422 standards for balanced communication. Each driver output and receiver input is protected against +/-15kV ESD strikes, without latch-up. Unlike competitive versions, these Intersil devices are specified for 10% tolerance supplies (4. 5V to 5. 5V). These devices are configured for full duplex (separate Rx input and Tx output pins) applications, so they are ideal for " 750 -100 50 H I L CNN "Description"
+F5 "1.75" 750 -200 50 H I L CNN "Height"
+F6 "968-ISL8490EIBZ-T" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Renesas-Intersil/ISL8490EIBZ-T/?qs=dAsayXGOMruV4w9kYM7q7w%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Renesas Electronics" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ISL8490EIBZ-T" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VCC 1 0 0 200 R 50 50 0 0 P
+X RO 2 0 -100 200 R 50 50 0 0 P
+X DI 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X A 8 900 0 200 L 50 50 0 0 P
+X B 7 900 -100 200 L 50 50 0 0 P
+X Z 6 900 -200 200 L 50 50 0 0 P
+X Y 5 900 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

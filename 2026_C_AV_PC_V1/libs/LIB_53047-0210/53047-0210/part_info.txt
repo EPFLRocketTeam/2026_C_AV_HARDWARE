@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=53047-0210
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-09-11 11:11:51
+Downloaded=2025-11-29 16:13:25
+3D=Y

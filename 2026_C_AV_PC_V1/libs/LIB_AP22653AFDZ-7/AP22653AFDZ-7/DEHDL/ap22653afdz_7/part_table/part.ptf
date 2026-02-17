@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AP22653AFDZ_7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "AP22653AFDZ-7" (!) = "", "SON65P200X200X80-7N", "Small Outline No-lead", "621-AP22653AFDZ-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP22653AFDZ-7?qs=W%2FMpXkg%252BdQ5j0cis9bApsQ%3D%3D", "Power Switch ICs - Power Distribution Load Switch W-DFN2020-6 T&R 3K", "https://www.diodes.com//assets/Datasheets/AP22652_53_52A_53A.pdf", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2920L600_24SLER
+#/13632293/1515570/2.50/2/4/Resettable Fuse
+DEF 2920L600_24SLER F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "2920L600_24SLER" 550 150 50 H V L CNN
+F2 "2920L700SLPR" 550 50 50 H I L CNN
+F3 "https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf" 550 -50 50 H I L CNN
+F4 "Low Rho Surface Mount Resettable PTC Fuse" 550 -150 50 H I L CNN "Description"
+F5 "1.2" 550 -250 50 H I L CNN "Height"
+F6 "576-2920L600/24SLER" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/2920L600-24SLER?qs=7MVldsJ5Uaz%2FccYHZvZIZA%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "2920L600/24SLER" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 220 -80 280 -80 420 80 480 80 N
+ENDDRAW
+ENDDEF
+#
+#End Library

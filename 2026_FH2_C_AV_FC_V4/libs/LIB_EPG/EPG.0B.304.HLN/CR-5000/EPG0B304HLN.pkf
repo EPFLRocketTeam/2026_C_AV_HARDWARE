@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "EPG0B304HLN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "EPG0B304HLN")
+        (spec "default")
+    )
+)

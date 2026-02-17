@@ -1,0 +1,129 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "501568-0207"
+   (description "Molex PICO-CLASP Series, Series Number 501568, 1mm Pitch 2 Way 2 Row Right Angle PCB Header, Solder Termination, 1A")
+   (family "CON")
+   (package "5015680207")
+   (attribute "Datasheet Link" "https://www.molex.com/pdm_docs/sd/5015680207_sd.pdf")
+   (attribute "Geometry.Height" "3.4mm")
+   (attribute "Mouser Part Number" "538-501568-0207")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/501568-0207?qs=uEWtSLL707WbFjnit2JOEg%3D%3D")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "501568-0207")
+   (gate
+    (symbol "501568-0207")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "MP1" MP1 PS)
+    (pin "MP2" MP2 PS)
+   )
+  )
+  (symbol "501568-0207"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "5015680207"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2 2.55)
+      (pt 2 2.55)
+      (pt 2 -2.8)
+      (pt -2 -2.8)
+      (pt -2 2.55))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.4 4.55)
+      (pt 3.4 4.55)
+      (pt 3.4 -3.8)
+      (pt -3.4 -3.8)
+      (pt -3.4 4.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 -2.45)
+      (pt -2 -2.8)
+      (pt 2 -2.8)
+      (pt 2 -2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 0.05)
+      (pt -2 2.55)
+      (pt -1.5 2.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 2 0.05)
+      (pt 2 2.55)
+      (pt 1.5 2.55))))
+   (leg 1 (pt -0.500 2.800) (padstack 0))
+   (leg 2 (pt 0.500 2.800) (padstack 0))
+   (leg MP1 (pt -1.800 -1.100) (padstack 3))
+   (leg MP2 (pt 1.800 -1.100) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.650 1.500 0 0 90.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.800 0 0 90.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 1.200 1.800 0 0 90.000))
+   )
+   (model "501568-0207.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

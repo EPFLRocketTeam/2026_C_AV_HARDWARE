@@ -1,0 +1,16 @@
+.LQH3NPN4R7MMEL :1 ;LQH3NPN_ME Series Inductor 4.7uH +/-20% 1212 (3030)
+LQH3NPN100MMEL
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN LQH3NPN4R7MMEL
+~!Mouser Part Number (81-LQH3NPN4R7MMEL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH3NPN4R7MMEL?qs=sJ5gq5MLFXqkg2Q4z1mYdA%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (LQH3NPN4R7MMEL)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0153.pdf)
+~!Height (1.5mm)
+~!3D_Model (LQH3NPN4R7MMEL)
+LQH3NPN4R7MMEL
+1.1!U 2.1!U 

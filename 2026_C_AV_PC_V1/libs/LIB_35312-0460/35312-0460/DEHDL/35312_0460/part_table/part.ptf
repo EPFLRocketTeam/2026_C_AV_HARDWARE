@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '35312_0460'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "35312-0460" (!) = "", "SHDR4W64P0X250_1X4_1246X650X700P", "Header, Shrouded - Straight PTH Box", "538-35312-0460", "https://www.mouser.co.uk/ProductDetail/Molex/35312-0460?qs=K5bGVUuM57oIWvCwIBpyrQ%3D%3D", "Headers & Wire Housings 2.5 PITCH W/B CONN WAFER ASSY", "https://www.molex.com/pdm_docs/sd/353120460_sd.pdf", "7 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=202396-0207
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2019-06-28 08:08:12
+Downloaded=2025-11-29 11:07:04
+3D=Y

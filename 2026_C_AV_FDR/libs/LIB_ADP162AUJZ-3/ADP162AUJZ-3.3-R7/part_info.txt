@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADP162AUJZ-3.3-R7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2025-02-12 15:04:24
+Downloaded=2025-12-15 23:53:31
+3D=Y

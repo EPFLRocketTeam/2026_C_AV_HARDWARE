@@ -1,0 +1,16 @@
+.PTVS30VS1UR_115 :1 ;TVS Diodes - Transient Voltage Suppressors TVS UNI-DIR 30V 400W
+SOD123W
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN PTVS30VS1UR_115
+~!Mouser Part Number (771-PTVS30VS1UR115)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS30VS1UR115?qs=GcY6OjH1zdkc%252BCtbt7xiQQ%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PTVS30VS1UR,115)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf)
+~!Height (-)
+~!3D_Model (PTVS30VS1UR,115)
+PTVS30VS1UR_115
+1.1!U 2.1!U 

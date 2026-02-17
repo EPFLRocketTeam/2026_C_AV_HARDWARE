@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '107'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Keystone Electronics", "107" (!) = "", "107", "Other", "534-107", "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/107?qs=Q3RoVmURDolD5lQJEVRplg%3D%3D", "KEYSTONE - 107 - BATTERY HOLDER, 23MM COIN CELL, THROUGH HOLE", "https://componentsearchengine.com/Datasheets/2/107.pdf", "8.5 mm"
+END_PART
+
+END.

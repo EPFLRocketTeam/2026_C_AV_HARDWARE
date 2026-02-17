@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "AD85F4CR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "AD85F4CR")
+        (spec "default")
+    )
+)

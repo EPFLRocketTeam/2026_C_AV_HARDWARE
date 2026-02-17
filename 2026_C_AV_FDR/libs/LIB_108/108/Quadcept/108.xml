@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/379318/1515570/2.50/2/4/Undefined or Miscellaneous/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c189_h126" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="49.606299212598">
+    <padshape layer="TOP" shape="round" width="74.409448818897" height="74.409448818897" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="82.283464566928" height="82.283464566928" />
+    <padshape layer="INNER" shape="round" width="74.409448818897" height="74.409448818897" />
+    <padshape layer="BOTTOM" shape="round" width="74.409448818897" height="74.409448818897" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="82.283464566928" height="82.283464566928" />
+  </padstyle>
+  <padstyle name="c122.5_h245" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="96.456692913385">
+    <padshape layer="TOP" shape="round" width="48.228346456692" height="48.228346456692" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="56.102362204724" height="56.102362204724" />
+    <padshape layer="INNER" shape="round" width="48.228346456692" height="48.228346456692" />
+    <padshape layer="BOTTOM" shape="round" width="48.228346456692" height="48.228346456692" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="56.102362204724" height="56.102362204724" />
+  </padstyle>
+  <footprint name="108" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="c189_h126" originx="-0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c189_h126" originx="1159.842519685" originy="0" rotation="90" />
+    <pcbpin number="3" name="MH1" style="c122.5_h245" originx="-0" originy="279.13385826771" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-99.999999999999" originy="320.07874015748" endx="1259.842519685" endy="320.07874015748" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="1259.842519685" originy="320.07874015748" endx="1259.842519685" endy="-320.07874015748" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="1259.842519685" originy="-320.07874015748" endx="-99.999999999999" endy="-320.07874015748" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-99.999999999999" originy="-320.07874015748" endx="-99.999999999999" endy="320.07874015748" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-119.68503937008" originy="347.04724409448" endx="1279.5275590551" endy="347.04724409448" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="1279.5275590551" originy="347.04724409448" endx="1279.5275590551" endy="-339.76377952755" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="1279.5275590551" originy="-339.76377952755" endx="-119.68503937008" endy="-339.76377952755" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-119.68503937008" originy="-339.76377952755" endx="-119.68503937008" endy="347.04724409448" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="79.921259842519" originy="320.07874015748" endx="1259.842519685" endy="320.07874015748" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="1259.842519685" originy="320.07874015748" endx="1259.842519685" endy="-320.07874015748" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="1259.842519685" originy="-320.07874015748" endx="-99.999999999999" endy="-320.07874015748" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-99.999999999999" originy="-320.07874015748" endx="-99.999999999999" endy="320.07874015748" width="3.9370078740157" />
+  </footprint>
+  <symbol name="108" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="200" endy="-200" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-200" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+  </symbol>
+  <component name="108" designatorprefix="U" height="0" footprint="108">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <attached_symbol gate="1" name="108" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.se/datasheet/2/215/108-745412.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Cylindrical Battery Contacts, Clips, Holders &amp; Springs Battery HOLDER PC 1/2 AA" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="534-108" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/108?qs=Q3RoVmURDomBWyH0dBAK9w%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Keystone Electronics" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="108" />
+  </component>
+</quadcept_library>

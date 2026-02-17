@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIC94060YMT_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MIC94060YMT-TR" (!) = "", "SON50P160X120X60-5N-D", "Small Outline No-lead", "998-MIC94060YMTTR", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MIC94060YMT-TR?qs=Y3Q3JoKAO1SQS%2F%2FiEDCB1w%3D%3D", "Power Switch ICs - Power Distribution Loadswitch w/level-shift", "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580310", "0.6 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_329012"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-10-09:04:10)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SMTU2032-LF")
+)
+
+
+(pinAssign "ECS_329012"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-10-09:04:10)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_329012")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SMTU2032-LF")
+)
+
+
+(part "SMTU2032-LF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-10-09:04:10)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SMTU2032-LF")
+    (pinAssignRef "ECS_329012")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "Coin Cell Battery Holders SFC MNT FOR CR2032")
+    (property "Mouser_Part_Number" "614-SMTU2032-LF")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Renata/SMTU2032-LF?qs=r1PAtlylphCLeXbokB9Tog%3D%3D")
+    (property "Manufacturer_Name" "RENATA")
+    (property "Manufacturer_Part_Number" "SMTU2032-LF")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/SMTU2032-LF.pdf")
+    (property "compAreaTopHeight" 5)
+)
+
+

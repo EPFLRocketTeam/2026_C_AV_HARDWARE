@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LTC3878EGN#PBF"
+   (description "LINEAR TECHNOLOGY - LTC3878EGN#PBF - BUCK, SYNCH, 34.2V, 16SSOP")
+   (family "ANA")
+   (package "SOP64P601X175-16N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/LTC3878EGN#PBF.pdf")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Mouser Part Number" "584-LTC3878EGN#PBF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC3878EGN%23PBF")
+   (attribute "Manufacturer_Name" "Analog Devices")
+   (attribute "Manufacturer_Part_Number" "LTC3878EGN#PBF")
+   (gate
+    (symbol "LTC3878EGN#PBF")
+    (pin "RUN/SS" 1 PS)
+    (pin "PGOOD" 2 PS)
+    (pin "VRNG" 3 PS)
+    (pin "FCB" 4 PS)
+    (pin "ITH" 5 PS)
+    (pin "SGND" 6 PS)
+    (pin "ION" 7 PS)
+    (pin "VFB" 8 PS)
+    (pin "BOOST" 16 PS)
+    (pin "TG" 15 PS)
+    (pin "SW" 14 PS)
+    (pin "PGND" 13 PS)
+    (pin "BG" 12 PS)
+    (pin "INTVCC" 11 PS)
+    (pin "VIN" 10 PS)
+    (pin "NC" 9 NC)
+   )
+  )
+  (symbol "LTC3878EGN#PBF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP64P601X175-16N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.725 2.739)
+      (pt 3.725 2.739)
+      (pt 3.725 -2.739)
+      (pt -3.725 -2.739)
+      (pt -3.725 2.739))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.95 2.445)
+      (pt 1.95 2.445)
+      (pt 1.95 -2.445)
+      (pt -1.95 -2.445)
+      (pt -1.95 2.445))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.95 1.81)
+      (pt -1.314 2.445))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 2.445)
+      (pt 1.6 2.445)
+      (pt 1.6 -2.445)
+      (pt -1.6 -2.445)
+      (pt -1.6 2.445))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.475 2.79)
+      (pt -1.95 2.79))))
+   (leg 1 (pt -2.712 2.222) (padstack 0))
+   (leg 2 (pt -2.712 1.588) (padstack 0))
+   (leg 3 (pt -2.712 0.952) (padstack 0))
+   (leg 4 (pt -2.712 0.318) (padstack 0))
+   (leg 5 (pt -2.712 -0.318) (padstack 0))
+   (leg 6 (pt -2.712 -0.952) (padstack 0))
+   (leg 7 (pt -2.712 -1.588) (padstack 0))
+   (leg 8 (pt -2.712 -2.222) (padstack 0))
+   (leg 9 (pt 2.712 -2.222) (padstack 0))
+   (leg 10 (pt 2.712 -1.588) (padstack 0))
+   (leg 11 (pt 2.712 -0.952) (padstack 0))
+   (leg 12 (pt 2.712 -0.318) (padstack 0))
+   (leg 13 (pt 2.712 0.318) (padstack 0))
+   (leg 14 (pt 2.712 0.952) (padstack 0))
+   (leg 15 (pt 2.712 1.588) (padstack 0))
+   (leg 16 (pt 2.712 2.222) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.435 1.526 0 0 0))
+   )
+   (model "LTC3878EGN#PBF.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

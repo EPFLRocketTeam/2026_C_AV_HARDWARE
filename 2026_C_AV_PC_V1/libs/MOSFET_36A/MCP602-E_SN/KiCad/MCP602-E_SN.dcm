@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP602-E_SN
+D Microchip MCP602-E/SN, Dual Op Amp, 2.8MHz Rail-Rail, 2.7  6 V, 8-Pin SOIC
+K
+F https://www.mouser.in/datasheet/2/268/21314g-2449592.pdf
+$ENDCMP
+#
+#End Doc Library

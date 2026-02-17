@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDC1004DGSR
+D 4 Channel Capacitance to Digital Converter for Capacitive Sensing (Cap Sensing) Solutions
+K
+F http://www.ti.com/lit/gpn/fdc1004
+$ENDCMP
+#
+#End Doc Library

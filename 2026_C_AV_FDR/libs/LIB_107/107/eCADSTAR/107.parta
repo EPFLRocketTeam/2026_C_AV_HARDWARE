@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_556374"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-07-03-11:14:52)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "107")
+)
+
+
+(pinAssign "ECS_556374"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-07-03-11:14:52)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_556374")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "107")
+)
+
+
+(part "107"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-07-03-11:14:52)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "107")
+    (pinAssignRef "ECS_556374")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "KEYSTONE - 107 - BATTERY HOLDER, 23MM COIN CELL, THROUGH HOLE")
+    (property "Mouser_Part_Number" "534-107")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/107?qs=Q3RoVmURDolD5lQJEVRplg%3D%3D")
+    (property "Manufacturer_Name" "Keystone Electronics")
+    (property "Manufacturer_Part_Number" "107")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/107.pdf")
+    (property "compAreaTopHeight" 8.5)
+)
+
+

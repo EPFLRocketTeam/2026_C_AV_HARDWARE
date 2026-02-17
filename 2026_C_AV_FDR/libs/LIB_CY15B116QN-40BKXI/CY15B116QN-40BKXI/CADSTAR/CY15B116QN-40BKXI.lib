@@ -1,0 +1,17 @@
+.CY15B116QN-40BKXI :1 ;CY15B116QN-40BKXI
+BGA24C100P5X5_600X800X120
+*STM IC
+*NGS
+*PNM 1=A2 2=A3 3=A4 4=A5 5=B1 6=B2 7=B3 8=B4 9=B5 10=C1 11=C2 12=C3 13=C4 14=C5 15=D1 16=D2 17=D3 18=D4 19=D5 20=E1 21=E2 22=E3 23=E4 24=E5
+*PLB 1="NC_1" 2="NC_2" 3="NC_3" 4="NC_4" 5="NC_5" 6="SCK" 7="VSS" 8="VDD" 9="NC_6" 10="NC_7" 11="'CS'" 12="NC_8" 13="'WP'" 14="NC_9" 15="NC_10" 16="SO" 17="SI" 18="DNU" 19="NC_11" 20="NC_12" 21="NC_13" 22="NC_14" 23="NC_15" 24="NC_16"
+*MXP 24
+*DFN CY15B116QN-40BKXI
+~!Mouser Part Number (727-CY15B116QN40BKXI)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/CY15B116QN-40BKXI?qs=vvQtp7zwQdPnw7xP166xGg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (CY15B116QN-40BKXI)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-CY15B116QN-40BKXIE-DataSheet-v06_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0eea4dc6734b)
+~!Height (1.2mm)
+~!3D_Model (CY15B116QN-40BKXI)
+CY15B116QN-40BKXI
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 

@@ -1,0 +1,153 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "39-30-1040"
+   (description "Mini-Fit Jr. Header, Dual Row, Right-Angle, with Snap-in Plastic Peg PCB Lock, 4 Circuits, PA Polyamide Nylon 6/6 94V-0")
+   (family "CON")
+   (package "39-30-104Y")
+   (attribute "Datasheet Link" "https://www.molex.com/pdm_docs/sd/039300020_sd.pdf")
+   (attribute "Geometry.Height" "10mm")
+   (attribute "Mouser Part Number" "538-39-30-1040")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/39-30-1040?qs=tRPrwvvr%2FugKtPXHFlZTbg%3D%3D")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "39-30-1040")
+   (gate
+    (symbol "39-30-1040")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "39-30-1040"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "39-30-104Y"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt -6.9 5.968)
+      (pt 2.7 5.968)
+      (pt 2.7 -13.968)
+      (pt -6.9 -13.968)
+      (pt -6.9 5.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt 2.7 5.968)
+      (pt 2.7 -13.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt 2.7 -13.968)
+      (pt -6.9 -13.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt -6.9 -13.968)
+      (pt -6.9 5.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 7.5 0.5)
+      (pt 7.5 -0.5)
+      (pt 6.5 0)
+      (pt 7.5 0.5))))
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 7.5 0.5)
+      (pt 7.5 -0.5)
+      (pt 6.5 0)
+      (pt 7.5 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -8.17 7.7942)
+      (pt 3.97 7.7942)
+      (pt 3.97 -15.238)
+      (pt -8.17 -15.238)
+      (pt -8.17 7.7942))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt -4.2 0) (padstack 0))
+   (leg 3 (pt 0 5.5) (padstack 0))
+   (leg 4 (pt -4.2 5.5) (padstack 0))
+   (leg 5 (pt -2.1 -7.3) (padstack 5))
+   (padstack 0
+    (hole 1.8)
+    (plated true)
+    (pad (layer TCOP) (round 2.15))
+    (pad (layer INNER) (round 2.15))
+    (pad (layer BCOP) (round 2.15))
+   )
+   (padstack 5
+    (hole 3)
+    (plated false)
+    (pad (layer TCOP) (round 3))
+    (pad (layer INNER) (round 3))
+    (pad (layer BCOP) (round 3))
+   )
+   (padstack 1
+    (hole 1.8)
+    (plated true)
+    (pad (layer TCOP) (square 2.15))
+    (pad (layer INNER) (round 2.15))
+    (pad (layer BCOP) (square 2.15))
+   )
+   (model "39-30-1040.stp"
+    (euler 90 0 0)
+    (offset -2.200000047683716 -13.930000305175781 -0.009999999776482582)
+   )
+  )
+ )
+)
