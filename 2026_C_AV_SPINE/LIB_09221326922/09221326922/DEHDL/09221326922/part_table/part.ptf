@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '09221326922'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "HARTING", "09221326922" (!) = "", "09221326922", "Other", "617-09221326922", "https://www.mouser.co.uk/ProductDetail/HARTING/09221326922?qs=Afqhj6cPmO%252B%2FNhXYLDucCw%3D%3D", "DIN 2B male straight 32pin, PL2", "https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_09031200201.pdf", "10.2 mm"
+END_PART
+
+END.
