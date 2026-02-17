@@ -3414,6 +3414,10 @@
 		(uuid "fcadf84c-9e62-4f9e-a11e-114819f955c5")
 	)
 	(no_connect
+		(at 88.9 76.2)
+		(uuid "23200bc6-ee97-4719-9636-2b3f7f6e234d")
+	)
+	(no_connect
 		(at 222.25 48.26)
 		(uuid "d96b71cb-8a6f-424b-b75b-0eb689b47071")
 	)
@@ -6236,16 +6240,6 @@
 			(justify right bottom)
 		)
 		(uuid "0a27d23b-814c-43bf-abb6-d30bdd8b8935")
-	)
-	(label "PGOOD"
-		(at 88.9 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0a422ef8-0ed1-45c7-a5f3-83e2142be376")
 	)
 	(label "VALID1"
 		(at 257.81 27.94 180)
