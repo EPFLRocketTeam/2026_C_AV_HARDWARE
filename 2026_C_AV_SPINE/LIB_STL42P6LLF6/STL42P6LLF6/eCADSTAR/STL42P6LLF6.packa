@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STL42P6LLF6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-01-09:16:14)
+    (mountForm default
+        (footprintRef "STL42P6LLF6")
+        (spec "System")
+    )
+)

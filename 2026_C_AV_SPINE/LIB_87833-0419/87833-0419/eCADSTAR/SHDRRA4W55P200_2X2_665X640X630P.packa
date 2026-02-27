@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "87833-0419"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-05-19-08:34:27)
+    (mountForm default
+        (footprintRef "SHDRRA4W55P200_2X2_665X640X630P")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STL42P6LLF6
+PartCategory=MOSFET (P-Channel)
+PackageCategory=Other
+PinCount=9
+Version=2.4
+Released=2020-02-01 09:16:14
+Downloaded=2026-02-21 15:17:50
+3D=Y

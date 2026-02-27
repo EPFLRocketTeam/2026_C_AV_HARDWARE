@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STL36DN6F7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-01-14-11:54:33)
+    (mountForm default
+        (footprintRef "STL36DN6F7")
+        (spec "System")
+    )
+)

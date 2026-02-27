@@ -640,7 +640,7 @@
       "plot": "Production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "2024_C_AV_TEMPLATE.step",
+      "step": "2026_C_AV_PC_V1.step",
       "svg": "",
       "vrml": ""
     },
@@ -1043,7 +1043,7 @@
       "model_mode": 4,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "ERT_Template_KiCAD_Fireohrn.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://ERT_Template_KiCAD_Fireohrn.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,

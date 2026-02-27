@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "STL42P6LLF6"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "STL42P6LLF6")
+        (spec "default")
+    )
+)

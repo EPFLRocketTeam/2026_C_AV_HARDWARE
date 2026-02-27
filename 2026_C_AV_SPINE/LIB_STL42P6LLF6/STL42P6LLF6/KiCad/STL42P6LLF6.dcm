@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STL42P6LLF6
+D STMicroelectronics STL42P6LLF6 P-channel MOSFET Transistor, 42 A, -60 V, 8-Pin PowerFLAT
+K
+F https://www.st.com/resource/en/datasheet/stl42p6llf6.pdf
+$ENDCMP
+#
+#End Doc Library

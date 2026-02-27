@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STL8N10F7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STL8N10F7" (!) = "", "STL8N10F7", "Other", "511-STL8N10F7", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL8N10F7?qs=DqCdCwOw4%2F4Qzkp1A1E6dA%3D%3D", "N-channel 100 V, 17 m typ., 8 A STripFET F7 Power MOSFET in a PowerFLAT 3.3x3.3 package", "https://www.st.com/resource/en/datasheet/stl8n10f7.pdf", "0.9 mm"
+END_PART
+
+END.

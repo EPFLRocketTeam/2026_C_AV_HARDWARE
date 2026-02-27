@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STL36DN6F7'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "STL36DN6F7" (!) = "", "STL36DN6F7", "Other", "511-STL36DN6F7", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL36DN6F7/?qs=u4fy%2FsgLU9MwLM2KeqBprA%3D%3D", "Dual N-channel 60 V, 23 m typ., 33 A STripFET F7 Power MOSFET in a PowerFLAT 5x6 double island package", "https://www.st.com/resource/en/datasheet/stl36dn6f7.pdf"
+END_PART
+
+END.

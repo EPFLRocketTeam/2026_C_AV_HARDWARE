@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STL8N10F7
+D N-channel 100 V, 17 m typ., 8 A STripFET F7 Power MOSFET in a PowerFLAT 3.3x3.3 package
+K
+F https://www.st.com/resource/en/datasheet/stl8n10f7.pdf
+$ENDCMP
+#
+#End Doc Library

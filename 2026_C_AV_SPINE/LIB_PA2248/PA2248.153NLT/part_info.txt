@@ -1,0 +1,9 @@
+Manufacturer=YAGEO
+PartNumber=PA2248.153NLT
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2021-02-22 06:29:34
+Downloaded=2026-02-20 17:29:45
+3D=Y

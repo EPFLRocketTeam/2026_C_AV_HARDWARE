@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_11930150"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-02-22-06:29:34)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PA2248_153NLT")
+)
+
+
+(pinAssign "ECS_11930150"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-02-22-06:29:34)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11930150")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PA2248_153NLT")
+)
+
+
+(part "PA2248_153NLT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-02-22-06:29:34)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "PA2248_153NLT")
+    (pinAssignRef "ECS_11930150")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "FIXED IND 15UH 22A 7.5MOHM SMD")
+    (property "Mouser_Part_Number" "673-PA2248.153NLT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA2248.153NLT?qs=vLWxofP3U2yRehsl8tescA%3D%3D")
+    (property "Manufacturer_Name" "YAGEO")
+    (property "Manufacturer_Part_Number" "PA2248.153NLT")
+    (property "Datasheet_Link" "https://www.mouser.de/datasheet/2/336/P865-1771766.pdf")
+    (property "compAreaTopHeight" 13)
+)
+
+

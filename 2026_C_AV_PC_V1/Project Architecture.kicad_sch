@@ -26,6 +26,30 @@
 		)
 		(uuid "b7f4d1c4-d845-46fc-9f7d-e03b36ddf932")
 	)
+	(text_box "Diode PESD3V3S1UL replaced by SP3021-01ETG"
+		(exclude_from_sim no)
+		(at 12.7 189.23 0)
+		(size 133.35 7.62)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0.635)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "SF Pro Text")
+				(size 3.81 3.81)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+			(justify left top)
+		)
+		(uuid "f1bdf72f-4ce8-4b34-8866-9678fb235126")
+	)
 	(junction
 		(at 102.87 57.15)
 		(diameter 0)

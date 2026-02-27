@@ -4,4 +4,5 @@
   (lib (name "LTC4020IUHF_PBF")(type "KiCad")(uri "${KIPRJMOD}/components/LTC4020/LTC4020IUHF_PBF.kicad_sym")(options "")(descr ""))
   (lib (name "LT3960EMSE#TRPBF")(type "KiCad")(uri "${KIPRJMOD}/components/LT3960/LT3960EMSE#TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "LTC4418IUF_TRPBF")(type "KiCad")(uri "${KIPRJMOD}/components/LTC4418IUF/LTC4418IUF_TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "ert")(type "KiCad")(uri "${KIPRJMOD}/ert.kicad_sym")(options "")(descr ""))
 )

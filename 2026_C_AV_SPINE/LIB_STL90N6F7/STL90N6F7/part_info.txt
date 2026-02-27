@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STL90N6F7
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=9
+Version=2.1
+Released=2023-04-03 10:41:27
+Downloaded=2026-02-21 17:23:30
+3D=Y

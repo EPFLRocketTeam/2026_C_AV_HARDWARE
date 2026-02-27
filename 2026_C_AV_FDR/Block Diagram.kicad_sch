@@ -5,8 +5,8 @@
 	(uuid "5103b744-f30a-42b1-b987-3d4be6264b7d")
 	(paper "A3")
 	(title_block
-		(title "PROMETHEUS")
-		(date "2025-11-19")
+		(title "Propultion Computer")
+		(date "2026-02-19")
 		(company "EPFL Rocket Team")
 		(comment 1 "Julian Ruiz Rodriguez")
 		(comment 2 "Propulsion Regulation for Optimal Motor Engine Thrust, High-accuracy Electronic Utility System")

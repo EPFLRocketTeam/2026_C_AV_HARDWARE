@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PA2248.153NLT
+D FIXED IND 15UH 22A 7.5MOHM SMD
+K
+F https://www.mouser.de/datasheet/2/336/P865-1771766.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STL36DN6F7
+D Dual N-channel 60 V, 23 m typ., 33 A STripFET F7 Power MOSFET in a PowerFLAT 5x6 double island package
+K
+F https://www.st.com/resource/en/datasheet/stl36dn6f7.pdf
+$ENDCMP
+#
+#End Doc Library
