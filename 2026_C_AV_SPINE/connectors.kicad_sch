@@ -2778,6 +2778,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 127) (xy 146.05 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3415bc37-cb71-439a-9389-2b1c80bb8b12")
+	)
+	(wire
+		(pts
 			(xy 189.23 113.03) (xy 189.23 111.76)
 		)
 		(stroke
@@ -2815,6 +2825,16 @@
 			(type default)
 		)
 		(uuid "3e772110-cd00-4901-8dbb-370453333513")
+	)
+	(wire
+		(pts
+			(xy 142.24 129.54) (xy 146.05 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41b18130-f866-4b3b-8a17-993b51ff700f")
 	)
 	(wire
 		(pts
@@ -3427,12 +3447,12 @@
 		(uuid "1195569b-1056-4c8d-847b-18158e1710f3")
 	)
 	(label "GND"
-		(at 146.05 129.54 180)
+		(at 142.24 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "11c34047-3337-42c6-9484-4c0fb5c909b8")
 	)
@@ -3917,12 +3937,12 @@
 		(uuid "6e13250d-8787-4ad9-8cc8-8487b832cfc6")
 	)
 	(label "24V"
-		(at 146.05 127 180)
+		(at 142.24 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "6e2464f8-fef0-4cab-b717-874f5d78a0d8")
 	)
