@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MPX1D1264L1R0"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-13-16:29:29)
+    (mountForm default
+        (footprintRef "INDPM132125X640N")
+        (spec "System")
+    )
+)

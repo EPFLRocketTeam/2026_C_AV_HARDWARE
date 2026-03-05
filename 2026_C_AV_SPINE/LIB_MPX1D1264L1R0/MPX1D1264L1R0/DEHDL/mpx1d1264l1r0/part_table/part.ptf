@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MPX1D1264L1R0'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "MPX1D1264L1R0" (!) = "", "INDPM132125X640N", "Inductors Precision Moulded", "80-MPX1D1264L1R0", "https://www.mouser.co.uk/ProductDetail/KEMET/MPX1D1264L1R0?qs=P1JMDcb91o5Wago5y8gjMA%3D%3D", "Surface Mount Inductor", "https://www.yageogroup.com/content/datasheet/asset/file/KEM_L9012_MPX", "6.4 mm"
+END_PART
+
+END.

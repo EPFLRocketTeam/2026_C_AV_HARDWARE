@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPX1D1264L1R0
+D Surface Mount Inductor
+K
+F https://www.yageogroup.com/content/datasheet/asset/file/KEM_L9012_MPX
+$ENDCMP
+#
+#End Doc Library

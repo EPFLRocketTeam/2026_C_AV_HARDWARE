@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=MPX1D1264L1R0
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=3.1
+Released=2024-09-13 16:29:29
+Downloaded=2026-03-04 13:51:41
+3D=Y
