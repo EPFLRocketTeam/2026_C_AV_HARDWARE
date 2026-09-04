@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_971257"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-23-06:28:10)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SS34")
+)
+
+
+(pinAssign "ECS_971257"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-23-06:28:10)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_971257")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SS34")
+)
+
+
+(part "SS34"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-07-23-06:28:10)
+    (utime 2025-01-22-16:53:39)
+    (packageRef "SS34")
+    (pinAssignRef "ECS_971257")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Low-Forward Voltage Drop; Metal to Silicon Rectifiers, Majority Carrier Conduction; High-Surge Current Capability; Easy Pick and Place")
+    (property "Mouser_Part_Number" "512-SS34")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/SS34?qs=2ONuHmP%2FXzb3ub11UdFfdQ%3D%3D")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "SS34")
+    (property "Datasheet_Link" "https://www.onsemi.com/pub/Collateral/SS39-D.PDF")
+    (property "compAreaTopHeight" 2.56)
+)
+
+

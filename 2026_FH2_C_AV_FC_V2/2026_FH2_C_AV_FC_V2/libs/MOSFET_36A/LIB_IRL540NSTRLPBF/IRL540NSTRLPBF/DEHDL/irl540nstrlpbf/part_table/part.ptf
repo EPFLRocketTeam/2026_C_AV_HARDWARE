@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRL540NSTRLPBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IRL540NSTRLPBF" (!) = "", "IRF2804STRLPBF", "Other", "942-IRL540NSTRLPBF", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRL540NSTRLPBF?qs=9%252BKlkBgLFf2wqPOjL9rZ8Q%3D%3D", "MOSFET N-Channel HEXFET 100V 36A D2PAK Infineon IRL540NSTRLPBF N-channel MOSFET Transistor, 36 A, 100 V, 3+Tab-Pin D2PAK", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a976ea931f47dfa9180662a8f907d205.pdf", "4.83 mm"
+END_PART
+
+END.

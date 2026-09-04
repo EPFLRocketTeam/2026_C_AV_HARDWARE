@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB1130-15-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=2.4
+Released=2021-04-22 07:29:37
+Downloaded=2025-11-17 18:55:20
+3D=Y

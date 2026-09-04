@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SQ2318AES_T1_BE3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SQ2318AES-T1_BE3" (!) = "", "SOT95P237X112-3N", "SOT23 (3-Pin)", "78-SQ2318AES-T1_BE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/SQ2318AES-T1_BE3?qs=TiOZkKH1s2QuMGPo0iDprw%3D%3D", "MOSFET N-CHANNEL 40V (D-S)", "https://www.mouser.co.uk/datasheet/2/427/sq2318aes-1764491.pdf", "1.12 mm"
+END_PART
+
+END.

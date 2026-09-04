@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPG.0B.304.HLN
+D 4 way size 0B PCB mount socket,7A Lemo 0B Series, 4 Pole Right Angle Through Hole Connector Socket, Shell Size 0, with Female Contacts
+K
+F https://web.lemo.com/img/resources/catalog/ROW/UK_English/unipole_multipole.pdf
+$ENDCMP
+#
+#End Doc Library

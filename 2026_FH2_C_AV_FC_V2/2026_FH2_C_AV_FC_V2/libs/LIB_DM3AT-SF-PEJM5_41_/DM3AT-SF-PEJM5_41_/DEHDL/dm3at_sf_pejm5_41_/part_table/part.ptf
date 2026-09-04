@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DM3AT_SF_PEJM5_41_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Hirose", "DM3AT-SF-PEJM5(41)" (!) = "", "DM3ATSFPEJM541", "Other", "798-DM3ATSFPEJM541", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DM3AT-SF-PEJM541?qs=iyLo5FA4poAlFf1J7h9Amg%3D%3D", "Memory Card Connectors SD R/A PUSH-PUSH SMD CONN MICRO", "https://www.hirose.com/en/product/document?clcode=CL0609-0031-0-00&productname=DM3AT-SF-PEJM5&series=DM3&documenttype=2DDrawing&lang=en&documentid=0000947170"
+END_PART
+
+END.

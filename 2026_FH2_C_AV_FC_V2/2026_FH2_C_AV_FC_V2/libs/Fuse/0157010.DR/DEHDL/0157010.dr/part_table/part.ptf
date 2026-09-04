@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0157010.DR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "LITTELFUSE", "0157010.DR" (!) = "", "0157010DR", "Other", "576-0157010.DR", "https://www.mouser.co.uk/ProductDetail/Littelfuse/0157010.DR?qs=n5MbhIql%252BRk%252BdkayiTTIMg%3D%3D", "Littelfuse 10A FF Non-Resettable Surface Mount Fuse, 125V", "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf"
+END_PART
+
+END.

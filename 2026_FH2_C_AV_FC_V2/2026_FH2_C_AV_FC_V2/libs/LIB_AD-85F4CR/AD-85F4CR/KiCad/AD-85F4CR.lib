@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AD-85F4CR
+#/20535439/1515570/2.50/3/3/Loudspeaker or Buzzer
+DEF AD-85F4CR LS 0 30 Y Y 1 F N
+F0 "LS" 850 300 50 H V L CNN
+F1 "AD-85F4CR" 850 200 50 H V L CNN
+F2 "AD85F4CR" 850 100 50 H I L CNN
+F3 "https://www.aatc.tw/images/pdf/202005089c959.pdf" 850 0 50 H I L CNN
+F4 "Piezo Buzzers & Audio Indicators EM Buzzer 2730Hz 3.6VAC, 87dBA" 850 -100 50 H I L CNN "Description"
+F5 "4.5" 850 -200 50 H I L CNN "Height"
+F6 "" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "AATC" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AD-85F4CR" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X + 1 0 0 200 R 50 50 0 0 P
+X - 2 0 -100 200 R 50 50 0 0 P
+X DUMMY 3 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

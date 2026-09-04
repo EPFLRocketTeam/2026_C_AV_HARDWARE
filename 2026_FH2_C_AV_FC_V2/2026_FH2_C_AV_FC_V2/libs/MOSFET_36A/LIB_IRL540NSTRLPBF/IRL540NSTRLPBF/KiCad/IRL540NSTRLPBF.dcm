@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRL540NSTRLPBF
+D MOSFET N-Channel HEXFET 100V 36A D2PAK Infineon IRL540NSTRLPBF N-channel MOSFET Transistor, 36 A, 100 V, 3+Tab-Pin D2PAK
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a976ea931f47dfa9180662a8f907d205.pdf
+$ENDCMP
+#
+#End Doc Library

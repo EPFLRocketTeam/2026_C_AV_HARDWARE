@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PTVS30VS1UR_115'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Nexperia", "PTVS30VS1UR,115" (!) = "", "SOD123W", "Other", "771-PTVS30VS1UR115", "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS30VS1UR115?qs=GcY6OjH1zdkc%252BCtbt7xiQQ%3D%3D", "TVS Diodes - Transient Voltage Suppressors TVS UNI-DIR 30V 400W", "https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf"
+END_PART
+
+END.
