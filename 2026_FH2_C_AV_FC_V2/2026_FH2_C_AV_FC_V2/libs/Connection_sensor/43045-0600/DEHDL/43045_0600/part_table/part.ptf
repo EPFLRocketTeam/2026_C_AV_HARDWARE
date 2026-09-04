@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '43045_0600'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "43045-0600" (!) = "", "43045-06(00,01,02,10)", "Other", "538-43045-0600", "https://www.mouser.co.uk/ProductDetail/Molex/43045-0600?qs=mrPiglD9aYJ8CzJ%2FE2PNbw%3D%3D", "Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Dual Row, 6 Circuits, with Snap-in Plastic Peg PCB Lock", "https://www.molex.com/pdm_docs/sd/430450200_sd.pdf", "9.9 mm"
+END_PART
+
+END.

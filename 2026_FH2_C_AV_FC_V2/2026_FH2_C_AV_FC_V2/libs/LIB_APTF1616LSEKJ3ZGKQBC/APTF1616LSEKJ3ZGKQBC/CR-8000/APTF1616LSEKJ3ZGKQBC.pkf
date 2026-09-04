@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "APTF1616LSEKJ3ZGKQBC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "APTF1616LSEKJ3ZGKQBC")
+        (spec "default")
+    )
+)

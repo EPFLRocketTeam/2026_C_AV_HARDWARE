@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '61201021621'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "61201021621" (!) = "", "SHDR10W64P254_2X5_2036X885X925P", "Header, Shrouded - Straight PTH Box", "710-61201021621", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61201021621?qs=W%252B2sBeLta1a0dwX5pxbfXw%3D%3D", "10 way 2.54mm male box Header Wurth Elektronik 612 Series, 2.54mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 3A", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ec2d1eaddfe1dc3d07279947380a13e2.pdf", "9.25 mm"
+END_PART
+
+END.

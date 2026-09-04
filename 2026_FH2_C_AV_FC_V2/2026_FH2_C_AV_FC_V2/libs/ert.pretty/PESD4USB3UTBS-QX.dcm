@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD4USB3UTBS-QX
+D plastic, leadless thin small outline package with SideWettable Flanks (SWF); 10 terminals; 0.5 mm pitch; 2.5 mm x 1 mm x 0.75 mm body
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD4USB3UTBS-Q.pdf
+$ENDCMP
+#
+#End Doc Library

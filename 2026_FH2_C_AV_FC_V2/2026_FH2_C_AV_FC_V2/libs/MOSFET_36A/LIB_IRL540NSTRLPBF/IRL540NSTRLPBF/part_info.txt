@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IRL540NSTRLPBF
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=2.3
+Released=2018-01-15 22:41:58
+Downloaded=2025-07-30 23:49:34
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX680CSA_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX680CSA+" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "700-MAX680CSA", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX680CSA%2b?qs=1THa7WoU59GmJru%252B3pd8uQ%3D%3D", "Charge Pump INV/STPUP  10V 10mA", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-340121.pdf", "1.75 mm"
+END_PART
+
+END.

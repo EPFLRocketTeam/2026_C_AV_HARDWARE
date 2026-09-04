@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=2920L600/24SLER
+PartCategory=Resettable Fuse
+PackageCategory=Other
+PinCount=2
+Version=2.4
+Released=2020-09-29 15:14:24
+Downloaded=2025-08-11 16:53:01
+3D=Y

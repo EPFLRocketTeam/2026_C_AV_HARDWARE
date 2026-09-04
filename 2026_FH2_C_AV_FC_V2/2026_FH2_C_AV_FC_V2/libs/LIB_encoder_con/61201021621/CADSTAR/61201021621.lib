@@ -1,0 +1,16 @@
+.61201021621 :1 ;10 way 2.54mm male box Header Wurth Elektronik 612 Series, 2.54mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 3A
+SHDR10W64P254_2X5_2036X885X925P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10"
+*MXP 10
+*DFN 61201021621
+~!Mouser Part Number (710-61201021621)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61201021621?qs=W%252B2sBeLta1a0dwX5pxbfXw%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (61201021621)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ec2d1eaddfe1dc3d07279947380a13e2.pdf)
+~!Height (9.25mm)
+~!3D_Model (61201021621)
+"61201021621"
+1.1!U 3.1!U 5.1!U 7.1!U 9.1!U 2.1!U 4.1!U 6.1!U 8.1!U 10.1!U 

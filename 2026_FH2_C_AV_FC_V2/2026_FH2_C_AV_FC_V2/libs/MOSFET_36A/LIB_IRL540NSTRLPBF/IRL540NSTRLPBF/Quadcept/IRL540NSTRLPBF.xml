@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/346000/1515570/2.50/3/4/MOSFET (N-Channel)/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r381_208" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="81.889763779527" height="150" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="89.763779527558" height="157.87401574803" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="81.889763779527" height="150" />
+  </padstyle>
+  <padstyle name="r1143_889" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="350" height="449.99999999999" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="357.87401574803" height="457.87401574803" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="350" height="449.99999999999" />
+  </padstyle>
+  <footprint name="IRF2804STRLPBF" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r381_208" originx="-99.999999999999" originy="-187.00787401575" rotation="0" />
+    <pcbpin number="2" name="2" style="r1143_889" originx="0" originy="262.99212598425" rotation="90" />
+    <pcbpin number="3" name="3" style="r381_208" originx="99.999999999999" originy="-187.00787401575" rotation="0" />
+    <line layer="TOP_ASSEMBLY" originx="205" originy="281.69291338582" endx="-205" endy="281.69291338582" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-205" originy="281.69291338582" endx="-205" endy="-65.15748031496" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-205" originy="-65.15748031496" endx="205" endy="-65.15748031496" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="205" originy="-65.15748031496" endx="205" endy="281.69291338582" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-264.37007874015" originy="477.3622047244" endx="264.37007874015" endy="477.3622047244" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="264.37007874015" originy="477.3622047244" endx="264.37007874015" endy="-321.06299212598" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="264.37007874015" originy="-321.06299212598" endx="-264.37007874015" endy="-321.06299212598" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-264.37007874015" originy="-321.06299212598" endx="-264.37007874015" endy="477.3622047244" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-205" originy="72.63779527559" endx="-205" endy="-65.15748031496" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-205" originy="-65.15748031496" endx="205" endy="-65.15748031496" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="205" originy="-65.15748031496" endx="205" endy="72.63779527559" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-102.36220472441" originy="-277.75590551181" endx="-102.36220472441" endy="-277.75590551181" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-98.425196850392" originy="-277.75590551181" startangle="180.0" sweepangle="180.0" radius="3.9370078740157" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-94.488188976377" originy="-277.75590551181" endx="-94.488188976377" endy="-277.75590551181" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-98.425196850392" originy="-277.75590551181" startangle=".0" sweepangle="180.0" radius="3.9370078740157" width="7.8740157480314" />
+  </footprint>
+  <symbol name="IRL540NSTRLPBF" originx="0" originy="0">
+    <line originx="300" originy="100" endx="300" endy="-100" width="0" />
+    <line originx="300" originy="200" endx="300" endy="300" width="0" />
+    <line originx="100" originy="0" endx="200" endy="0" width="0" />
+    <line originx="200" originy="200" endx="200" endy="0" width="0" />
+    <line originx="300" originy="100" endx="230" endy="100" width="0" />
+    <line originx="300" originy="200" endx="230" endy="200" width="0" />
+    <line originx="230" originy="0" endx="300" endy="0" width="0" />
+    <line originx="230" originy="220" endx="230" endy="180" width="0" />
+    <line originx="230" originy="-20" endx="230" endy="20" width="0" />
+    <line originx="230" originy="80" endx="230" endy="120" width="0" />
+    <arc originx="250" originy="100" startangle="180" sweepangle="180" radius="150" width="0" />
+    <arc originx="250" originy="100" startangle="180" sweepangle="-180" radius="150" width="0" />
+    <sympin number="1" originx="100" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="0" originy="-20" style="Default" rotation="0" justify="upperleft" flipped="False" hidden="True" data="G" />
+      <text name="pindes" originx="80" originy="10" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="3" originx="300" originy="300" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="320" originy="400" style="Default" rotation="90" justify="upperleft" flipped="False" hidden="True" data="D" />
+      <text name="pindes" originx="280" originy="400" style="Default" rotation="90" justify="upperright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="2" originx="300" originy="-100" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="320" originy="-200" style="Default" rotation="90" justify="lowerleft" flipped="False" hidden="True" data="S" />
+      <text name="pindes" originx="280" originy="-200" style="Default" rotation="90" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <polygon type="polygon">
+      <point x="230" y="100" />
+      <point x="270" y="120" />
+      <point x="270" y="80" />
+    </polygon>
+  </symbol>
+  <component name="IRL540NSTRLPBF" designatorprefix="Q" height="190.15748031496" footprint="IRF2804STRLPBF">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="G" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="S" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="D" />
+    <attached_symbol gate="1" name="IRL540NSTRLPBF" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a976ea931f47dfa9180662a8f907d205.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="MOSFET N-Channel HEXFET 100V 36A D2PAK Infineon IRL540NSTRLPBF N-channel MOSFET Transistor, 36 A, 100 V, 3+Tab-Pin D2PAK" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="942-IRL540NSTRLPBF" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRL540NSTRLPBF?qs=9%252BKlkBgLFf2wqPOjL9rZ8Q%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Infineon" />
+    <text name="Manufacturer_Part_Number" originx="450" originy="50" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="IRL540NSTRLPBF" />
+  </component>
+</quadcept_library>

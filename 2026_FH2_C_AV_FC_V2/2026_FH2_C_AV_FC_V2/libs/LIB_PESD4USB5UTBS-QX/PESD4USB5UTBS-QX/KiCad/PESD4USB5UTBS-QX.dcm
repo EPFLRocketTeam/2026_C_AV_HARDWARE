@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD4USB5UTBS-QX
+D PESD4USB5UTBS-Q - ESD protection for high-speed interfaces@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD4USB5UTBS-Q.pdf
+$ENDCMP
+#
+#End Doc Library

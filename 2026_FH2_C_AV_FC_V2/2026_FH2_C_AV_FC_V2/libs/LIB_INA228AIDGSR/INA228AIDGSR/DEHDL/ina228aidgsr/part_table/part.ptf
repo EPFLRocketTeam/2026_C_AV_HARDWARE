@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'INA228AIDGSR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "INA228AIDGSR" (!) = "", "SOP50P490X110-10N", "Small Outline Packages", "595-INA228AIDGSR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA228AIDGSR?qs=pUKx8fyJudB2qGvt%252BmXPAg%3D%3D", "Current & Power Monitors & Regulators 85-V, 20-bit, ultra-precise, I2C output current/voltage/power/energy/charge monitor with alert</p", "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina228", "1.1 mm"
+END_PART
+
+END.

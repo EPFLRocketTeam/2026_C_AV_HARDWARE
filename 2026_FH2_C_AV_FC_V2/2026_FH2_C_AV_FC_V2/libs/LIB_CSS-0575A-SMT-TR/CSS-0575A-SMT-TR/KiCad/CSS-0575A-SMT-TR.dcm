@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSS-0575A-SMT-TR
+D 5 mm, 3 V, 76 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer
+K
+F https://www.sameskydevices.com/product/resource/css-0575a-smt-tr.pdf
+$ENDCMP
+#
+#End Doc Library

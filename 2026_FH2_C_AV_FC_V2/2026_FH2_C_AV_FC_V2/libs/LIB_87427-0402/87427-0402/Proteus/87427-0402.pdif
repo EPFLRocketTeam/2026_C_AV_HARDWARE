@@ -1,0 +1,145 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "87427-0402"
+   (description "Mini-Fit Jr. Header, 4.20mm Pitch, Right-Angle, without Flange, 4 Circuits")
+   (family "CON")
+   (package "87427-04YY_347202")
+   (attribute "Datasheet Link" "https://www.molex.com/pdm_docs/sd/874270202_sd.pdf")
+   (attribute "Geometry.Height" "11.4mm")
+   (attribute "Mouser Part Number" "538-87427-0402")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/87427-0402?qs=BpFtYU5tmpvCqnqQ9%2FJ56w%3D%3D")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "87427-0402")
+   (gate
+    (symbol "87427-0402")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "87427-0402"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "87427-04YY_347202"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt -7.5 5.968)
+      (pt 3.3 5.968)
+      (pt 3.3 -13.968)
+      (pt -7.5 -13.968)
+      (pt -7.5 5.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt 3.3 5.968)
+      (pt 3.3 -13.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt 3.3 -13.968)
+      (pt -7.5 -13.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed false)
+      (pt -7.5 -13.968)
+      (pt -7.5 5.968))))
+   (layer TSLK
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 4.75 0.5)
+      (pt 4.75 -0.5)
+      (pt 3.75 0)
+      (pt 4.75 0.5))))
+   (layer TASM
+    (graphic
+     (stroke 0.127)
+     (path
+      (closed true)
+      (pt 4.75 0.5)
+      (pt 4.75 -0.5)
+      (pt 3.75 0)
+      (pt 4.75 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -8.77 7.8692)
+      (pt 4.57 7.8692)
+      (pt 4.57 -15.238)
+      (pt -8.77 -15.238)
+      (pt -8.77 7.8692))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt -4.2 0) (padstack 0))
+   (leg 3 (pt 0 5.5) (padstack 0))
+   (leg 4 (pt -4.2 5.5) (padstack 0))
+   (padstack 0
+    (hole 1.8)
+    (plated true)
+    (pad (layer TCOP) (round 2.3))
+    (pad (layer INNER) (round 2.3))
+    (pad (layer BCOP) (round 2.3))
+   )
+   (padstack 1
+    (hole 1.8)
+    (plated true)
+    (pad (layer TCOP) (square 2.3))
+    (pad (layer INNER) (round 2.3))
+    (pad (layer BCOP) (square 2.3))
+   )
+   (model "87427-0402.stp"
+    (euler 90 0 0)
+    (offset -1.9500000476837158 -13.890000343322754 -0.019999999552965164)
+   )
+  )
+ )
+)

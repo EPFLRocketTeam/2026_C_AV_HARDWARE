@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_254130"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-15-15:34:21)
+    (utime 2025-05-08-15:31:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "CSS-0575A-SMT-TR")
+)
+
+
+(pinAssign "ECS_254130"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-15-15:34:21)
+    (utime 2025-05-08-15:31:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NC") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_254130")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CSS-0575A-SMT-TR")
+)
+
+
+(part "CSS-0575A-SMT-TR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-15-15:34:21)
+    (utime 2025-05-08-15:31:46)
+    (packageRef "CSS-0575A-SMT-TR")
+    (pinAssignRef "ECS_254130")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NC") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LS")
+    (property "description" "5 mm, 3 V, 76 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer")
+    (property "Mouser_Part_Number" "490-CSS-0575A-SMT-TR")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CSS-0575A-SMT-TR?qs=WyjlAZoYn52WhHVOl0obVQ%3D%3D")
+    (property "Manufacturer_Name" "Same Sky")
+    (property "Manufacturer_Part_Number" "CSS-0575A-SMT-TR")
+    (property "Datasheet_Link" "https://www.sameskydevices.com/product/resource/css-0575a-smt-tr.pdf")
+    (property "compAreaTopHeight" 2)
+)
+
+

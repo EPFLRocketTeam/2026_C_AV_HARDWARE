@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DM3AT-SF-PEJM5_41_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-10-19-14:21:20)
+    (mountForm default
+        (footprintRef "DM3ATSFPEJM541")
+        (spec "System")
+    )
+)

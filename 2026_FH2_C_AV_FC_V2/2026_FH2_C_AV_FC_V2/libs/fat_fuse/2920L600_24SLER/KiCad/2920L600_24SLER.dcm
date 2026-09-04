@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2920L600_24SLER
+D Low Rho Surface Mount Resettable PTC Fuse
+K
+F https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf
+$ENDCMP
+#
+#End Doc Library

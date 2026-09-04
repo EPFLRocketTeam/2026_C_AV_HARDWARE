@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB1130_15_A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "USB1130-15-A" (!) = "", "USB113015A", "Other", "640-USB1130-15-A", "https://www.mouser.co.uk/ProductDetail/GCT/USB1130-15-A?qs=KUoIvG%2F9IlbUm2WMV7vmzg%3D%3D", "USB Connectors USB A 2.0 Skt RA High Life 15u" T Hole W/Shell Stake T & R", "https://gct.co/files/drawings/usb1130.pdf?v=af75e0ab-3313-4c97-a925-9953a1c7de6b", "7.24 mm"
+END_PART
+
+END.

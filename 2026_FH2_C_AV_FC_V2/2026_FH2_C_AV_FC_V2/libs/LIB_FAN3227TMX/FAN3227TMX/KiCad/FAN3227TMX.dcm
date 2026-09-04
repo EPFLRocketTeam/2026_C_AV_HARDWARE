@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FAN3227TMX
+D Four Versions of Dual Independent Drivers: ; 3A Peak Sink/Source at VDD = 12V ; Dual Inverting + Enable (FAN3226) ; Typical Propagation Delay Under 20ns Matched within 1ns to the Other Channel ; 4.5 to 18V Operating Range ; 8-Lead 3x3mm MLP or 8-Lead SOIC Package ; Dual Non-Inverting + Enable (FAN3227) ; Dual-Inputs in Two Pin-Out Configurations:  Compatible with FAN3225x (FAN3228)  Compatible with TPS2814D (FAN3229) ; MillerDrive Technology ; 12ns / 9ns Typical Rise/Fall Times with 1nF Load ; Intern
+K
+F https://www.onsemi.com/pub/Collateral/FAN3229T-D.PDF
+$ENDCMP
+#
+#End Doc Library

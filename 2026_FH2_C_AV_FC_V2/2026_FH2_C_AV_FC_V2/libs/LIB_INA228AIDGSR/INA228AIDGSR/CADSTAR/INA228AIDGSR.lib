@@ -1,0 +1,16 @@
+.INA228AIDGSR :1 ;Current & Power Monitors & Regulators 85-V, 20-bit, ultra-precise, I2C output current/voltage/power/energy/charge monitor with alert</p
+SOP50P490X110-10N
+*STM IC
+*NGS
+*PLB 1="A1" 2="A0" 3="ALERT" 4="SDA" 5="SCL" 6="VS" 7="GND" 8="VBUS" 9="IN-" 10="IN+"
+*MXP 10
+*DFN INA228AIDGSR
+~!Mouser Part Number (595-INA228AIDGSR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA228AIDGSR?qs=pUKx8fyJudB2qGvt%252BmXPAg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA228AIDGSR)
+~!Link Datasheet (https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina228)
+~!Height (1.1mm)
+~!3D_Model (INA228AIDGSR)
+INA228AIDGSR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

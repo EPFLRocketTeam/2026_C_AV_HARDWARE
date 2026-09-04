@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CSS_0575A_SMT_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "CSS-0575A-SMT-TR" (!) = "", "CSS0575ASMTTR", "Other", "490-CSS-0575A-SMT-TR", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CSS-0575A-SMT-TR?qs=WyjlAZoYn52WhHVOl0obVQ%3D%3D", "5 mm, 3 V, 76 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer", "https://www.sameskydevices.com/product/resource/css-0575a-smt-tr.pdf", "2 mm"
+END_PART
+
+END.

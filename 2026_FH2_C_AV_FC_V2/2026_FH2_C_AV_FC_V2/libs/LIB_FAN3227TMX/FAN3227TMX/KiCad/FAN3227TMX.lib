@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FAN3227TMX
+#/2714/1515570/2.50/8/2/Integrated Circuit
+DEF FAN3227TMX IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "FAN3227TMX" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/FAN3229T-D.PDF" 950 0 50 H I L CNN
+F4 "Four Versions of Dual Independent Drivers: ; 3A Peak Sink/Source at VDD = 12V ; Dual Inverting + Enable (FAN3226) ; Typical Propagation Delay Under 20ns Matched within 1ns to the Other Channel ; 4.5 to 18V Operating Range ; 8-Lead 3x3mm MLP or 8-Lead SOIC Package ; Dual Non-Inverting + Enable (FAN3227) ; Dual-Inputs in Two Pin-Out Configurations:  Compatible with FAN3225x (FAN3228)  Compatible with TPS2814D (FAN3229) ; MillerDrive Technology ; 12ns / 9ns Typical Rise/Fall Times with 1nF Load ; Intern" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "512-FAN3227TMX" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FAN3227TMX?qs=ODlIKnK5hgdsmwIkcdhHGg%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "FAN3227TMX" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ENA 1 0 0 200 R 50 50 0 0 P
+X INA 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X INB 4 0 -300 200 R 50 50 0 0 P
+X ENB 8 1100 0 200 L 50 50 0 0 P
+X OUTA 7 1100 -100 200 L 50 50 0 0 P
+X VDD 6 1100 -200 200 L 50 50 0 0 P
+X OUTB 5 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

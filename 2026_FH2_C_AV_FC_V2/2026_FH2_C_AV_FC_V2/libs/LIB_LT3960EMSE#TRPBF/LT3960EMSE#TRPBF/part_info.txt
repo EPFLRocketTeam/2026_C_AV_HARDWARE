@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LT3960EMSE#TRPBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=11
+Version=2.1
+Released=2022-03-25 04:51:42
+Downloaded=2025-02-25 14:40:46
+3D=Y
